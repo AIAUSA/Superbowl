@@ -47,3 +47,20 @@
   .price.right { border-left: 2px solid #eaeaea; } }
 /*Mobiles (<480px)*/
 @media (max-width: 479px) {  }
+
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* AG - Dates */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+.pr-date {
+  width: 10%;float: right;background-color: #fe4918;text-align: center;
+}
+.pr-date h5 {
+  margin: 0px;
+  background-color: #000;
+  color: #fff;
+}
+
+.pr-date h2 {
+  color: white;
+  margin: 5px 0px;
+}

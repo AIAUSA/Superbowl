@@ -29,6 +29,29 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+collections:
+  inductees:
+    title: bartstarr
+    output: true
+    permalink: /bartstarr/:year/title
+  media:
+    title: Media
+    output: true
+  posts:
+    title: Posts
+    output: true
+    permalink: /media/:year/:title
+defaults:
+- scope:
+    path: ''
+    type: bartstarr
+  values:
+    layout: winner
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: release
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
