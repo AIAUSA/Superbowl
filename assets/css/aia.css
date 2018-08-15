@@ -1,0 +1,49 @@
+.no-padding { padding-left: 0; padding-right: 0; }
+.no-margin { margin-left: 0; margin-right: 0; }
+
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 19 - PRICE */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+.price { border: 2px solid #eaeaea; padding: 8px; text-align: center; }
+.price-top { background: #f9f9f9; margin-bottom: 2px; padding-top: 47px; padding-bottom: 42px; }
+.price-title { font-size: 20px; line-height: 24px; font-weight: 400; color: #222; letter-spacing: 2px; margin-bottom: 15px; }
+.price-category { display: inline-block; font-size: 12px; line-height: 15px; font-weight: 400; color: #fff; text-transform: uppercase; background: #fe4918; padding: 8px 9px; margin-bottom: 44px; }
+.price-per { font-size: 42px; line-height: 42px; font-weight: 800; color: #222; letter-spacing: 4px; margin-bottom: 9px; }
+.price-per sup { font-size: 20px; line-height: 20px; font-weight: 400; letter-spacing: 0px; }
+.price-per sub { font-size: 16px; line-height: 20px; font-weight: 300; letter-spacing: 0px; }
+.price-desc { font-size: 13px; line-height: 24px; font-weight: 400; color: #bbbbbb; padding: 0px 15%; }
+.price-bottom { background: #f9f9f9; padding-top: 47px; padding-bottom: 45px; }
+.price-row { margin-bottom: 20px; margin-bottom: 46px; }
+.price-row p { font-size: 13px; line-height: 15px; font-weight: 400; color: #bbbbbb; margin-bottom: 10px; margin-bottom: 19px; }
+.price-row p:last-child { margin-bottom: 0px; }
+.price.left { border-right: none; margin-top: 26px; }
+.price.center { border: 2px solid #cc993a; }
+.price.center .price-bottom { padding-bottom: 98px; }
+.price.right { border-left: none; margin-top: 26px; }
+.price.style-2 { padding: 0; border: 1px solid #f1f1f1; }
+.price.style-2 .price-top { background: transparent; }
+.price.style-2 .price-category { color: #8a8a8a; background: transparent; margin-bottom: 15px; }
+.price.style-2 .price-img { width: 100%; margin-bottom: 35px; }
+.price.style-2 .price-bottom { background: transparent; padding-top: 0; }
+.price.style-2.center .price-per { color: #f3dd02; }
+
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* 28 - MEDIA QUERIES */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/*Desktops (>=992px)*/
+@media (max-width: 1199px) { .main-nav li { margin-left: 19px; }}
+@media (min-width: 992px) { .header.type-1 .main-nav { display: block !important; } }
+/* Tablets (>=768px)*/
+@media (max-width: 991px) { 
+  .price-top { padding-top: 35px; padding-bottom: 31px; }
+  .price-bottom { padding-top: 35px; padding-bottom: 33px; }
+  .price-category { margin-bottom: 33px; }
+  .price-per { font-size: 38px; line-height: 38px; }
+  .price-row { margin-bottom: 34px; }
+  .price.center .price-bottom { padding-bottom: 80px; }}
+/*Phones (<768px)*/
+@media (max-width: 767px) { 
+  .price.left { border-right: 2px solid #eaeaea; margin-bottom: 30px; }
+  .price.right { border-left: 2px solid #eaeaea; } }
+/*Mobiles (<480px)*/
+@media (max-width: 479px) {  }
