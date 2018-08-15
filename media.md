@@ -9,7 +9,7 @@ slug: media
 {% for post in site.posts %}
 <div class="container">
 <div class="team-entry">
-<a class="team-title" style="text-decoration: underline; width: 100%;" href="{{ post.url | replace: '.html', '' }}">{{ post.title }}</a>
+<a class="team-title" style="text-decoration: underline; width: 100%;" href="{{ site.baseurl }}{{ post.url | replace: '.html', '' }}">{{ post.title }}</a>
 <a class="team-pos">{{ post.date | date: "%-d %B %Y" }}</a>
 <div class="team-text" style="height: 80px">{{ post.description }}</div>
 </div>

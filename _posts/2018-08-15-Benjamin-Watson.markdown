@@ -3,7 +3,7 @@ title:  "BALTIMORE RAVENS TIGHT END BENJAMIN WATSON WINS 2018 BART STARR AWARD"
 date:   2018-02-02 10:07:57 -0400
 ---
 <div class="align-center">
-	<img width="550px" height="150px" src="/assets/img/2018SuperBowlBreakfastLogo.png" />
+	<img width="550px" height="150px" src="{{ site.baseurl }}/assets/img/2018SuperBowlBreakfastLogo.png" />
 </div>
 <p><strong><span style="text-decoration: underline;"></span></strong></p><p><strong><span style="text-decoration: underline;"></span></strong></p>
 <p><strong><span style="text-decoration: underline;">FOR IMMEDIATE RELEASE </span></strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Media Contact: Allison Vogel, 734-395-2417</strong></p>
