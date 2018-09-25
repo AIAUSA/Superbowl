@@ -2,4 +2,9 @@
 label: Press Release
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
