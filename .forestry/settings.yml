@@ -9,13 +9,8 @@ sections:
   label: Inductees
   create: all
   match: "**/*"
-- type: directory
-  path: _media
-  label: Media
-  create: all
-  match: "**/*"
 - type: jekyll-posts
-  label: Posts
+  label: Press Releases
   create: all
   match: "**/*"
 - type: jekyll-pages
