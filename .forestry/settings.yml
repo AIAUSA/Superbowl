@@ -7,8 +7,10 @@ sections:
 - type: directory
   path: _inductees
   label: Inductees
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - inductee
 - type: jekyll-posts
   label: Press Releases
   create: all
