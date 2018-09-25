@@ -14,10 +14,11 @@ sections:
 - type: jekyll-posts
   label: Press Releases
   create: all
-  match: "**/*"
 - type: jekyll-pages
   label: Pages
-  create: all
+  create: documents
+  templates:
+  - page-builder
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
