@@ -1,0 +1,19 @@
+---
+label: Inductee
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Name
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+    date_format: MM/DD/YYYY
+- type: file
+  name: feature_image
+  label: Image
