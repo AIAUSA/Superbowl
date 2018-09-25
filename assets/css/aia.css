@@ -51,6 +51,7 @@
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /* AG - Dates */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
+/*
 .pr-date {
   width: 10%;float: right;background-color: #fe4918;text-align: center;
 }
@@ -63,4 +64,50 @@
 .pr-date h2 {
   color: white;
   margin: 5px 0px;
+}
+*/
+h3 {
+  font-weight: 500;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+/* DP - Logo */
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+.sbblogo {
+  background-image: url("/Superbowl/assets/img/sbb2018.png");
+  background-repeat: no-repeat;
+  height: 255px;
+  width: 196px;
+  position: absolute;
+  left: 2%;
+  top:0px;
+  z-index: 100001;
+}
+.sblogo {
+  margin-left: 200px;
+}
+
+.press-release {
+  width: 70%;
+}
+
+.header.fixed .header-wrapper { position: static !important; }
+
+@media (max-width: 767px) { 
+  .sbblogo {
+    background-size: 40%;
+  }
+
+  .press-release {
+    width:  100%;
+  }
+
+  body > .container {
+    padding-top: 25px;
+  }
+
+  .navigation-list {
+    text-align: right;
+    margin-right: 10px;
+  }
 }

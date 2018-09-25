@@ -2,11 +2,9 @@
 layout: media
 ---
 
-<div class="container press-release" style="width: 70%;">
+<div class="container press-release">
     <div class="pr-date" >
-        <h5>{{ page.date | date: "%b" }}</h5>
-        <h2>{{ page.date | date: "%d" }}</h2>
-        <h5>{{ page.date | date: "%Y" }}</h5>
+        {{ page.date | date: "%B, %-d %Y" }}
     </div>
     <h3>{{ page.title }}</h2>
     {{ content }}
