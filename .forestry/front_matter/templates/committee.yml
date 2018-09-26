@@ -9,3 +9,10 @@ fields:
   name: block
   hidden: true
   default: committee
+- type: textarea
+  name: content
+  label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
