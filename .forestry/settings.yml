@@ -14,9 +14,11 @@ sections:
 - type: jekyll-posts
   label: Press Releases
   create: all
-- type: jekyll-pages
+- type: directory
+  path: ''
   label: Pages
   create: documents
+  match: "**/*.md"
   templates:
   - page-builder
 upload_dir: uploads
