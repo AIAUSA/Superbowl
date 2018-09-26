@@ -22,3 +22,5 @@ fields:
   label: Page Sections
   template_types:
   - winners
+  - press-releases
+  - media-inquiries
