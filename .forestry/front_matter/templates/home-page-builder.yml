@@ -6,9 +6,6 @@ fields:
 - type: text
   name: title
   label: Title
-- type: blocks
-  label: Page Sections
-  name: page_sections
 - type: text
   name: layout
   label: Layout
@@ -17,6 +14,8 @@ fields:
 - type: text
   name: permalink
   label: URL
+  default: ''
+  hidden: true
 - type: blocks
   template_types:
   - countdown
