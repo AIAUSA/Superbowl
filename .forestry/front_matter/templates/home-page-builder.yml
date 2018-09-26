@@ -17,5 +17,16 @@ fields:
 - type: text
   name: permalink
   label: URL
+- type: blocks
+  template_types:
+  - countdown
+  - sponsors
+  - tickets
+  - committee
+  - about
+  - gallery
+  - speakers
+  label: Page Sections
+  name: page_sections
 pages:
 - index.md
