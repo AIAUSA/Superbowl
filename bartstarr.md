@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blocks
 slug: bartstarr
 title: Bart Starr Award Winners
 
