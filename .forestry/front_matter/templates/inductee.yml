@@ -8,12 +8,11 @@ fields:
   label: Name
   config:
     required: true
-- type: datetime
-  name: date
-  label: Date
+- type: text
+  name: year
+  label: Year
   config:
     required: true
-    date_format: MM/DD/YYYY
 - type: file
   name: feature_image
   label: Image
