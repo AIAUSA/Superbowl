@@ -20,5 +20,4 @@ fields:
 - type: blocks
   name: page_sections
   label: Page Sections
-  template_types:  
-pages:
+  template_types: 
