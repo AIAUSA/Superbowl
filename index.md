@@ -1,5 +1,5 @@
 ---
-layout: home-page-builder
+layout: home-blocks
 title: Home Page
 page_sections:
 - template: about
