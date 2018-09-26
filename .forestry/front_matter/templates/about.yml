@@ -1,0 +1,11 @@
+---
+label: About
+hide_body: true
+is_partial: true
+display_field: block
+fields:
+- type: text
+  label: Block
+  name: block
+  hidden: true
+  default: about

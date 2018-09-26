@@ -1,0 +1,6 @@
+---
+layout: index
+---
+{% for section in page.page_sections %}
+{% include blocks/block-{{ section.block }}.html %}
+{% endfor %}    
