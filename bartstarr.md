@@ -2,6 +2,9 @@
 layout: default
 slug: bartstarr
 title: Bart Starr Award Winners
+page_sections:
+- template: winners
+  block: winners
 
 ---
 <div class="container">
