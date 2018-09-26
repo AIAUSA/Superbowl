@@ -11,12 +11,9 @@ fields:
   label: Layout
   hidden: true
   default: blocks
-- type: datetime
-  name: date
-  label: Date
 - type: text
   label: URL
-  name: permalink
+  name: slug
 - type: blocks
   name: page_sections
   label: Page Sections
