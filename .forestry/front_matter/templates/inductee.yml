@@ -17,8 +17,13 @@ fields:
   name: feature_image
   label: Image
 pages:
+- _inductees/matthew-slater.md
+- _inductees/thomas-davis.md
+- _inductees/peyton-manning.md
+- _inductees/aaron-rodgers.md
 - _inductees/jason-witten.md
 - _inductees/aaron-rodgers.md
+- _inductees/jason-witten.md
 - _inductees/peyton-manning.md
 - _inductees/thomas-davis.md
 - _inductees/matthew-slater.md

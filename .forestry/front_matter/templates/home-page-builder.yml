@@ -18,6 +18,7 @@ fields:
   hidden: true
 - type: blocks
   template_types:
+  - text
   - countdown
   - sponsors
   - tickets
