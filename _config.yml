@@ -41,6 +41,12 @@ collections:
     title: Posts
     output: true
     permalink: /media/:year/:title
+  sponsors:
+    title: Sponsors
+    output: false
+  gallery:
+    title: Gallery
+    output: false
 defaults:
 - scope:
     path: ''
