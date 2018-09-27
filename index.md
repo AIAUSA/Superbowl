@@ -6,8 +6,8 @@ page_sections:
   block: about
 - template: html-text
   block: text
-  content: <iframe width="560" height="315" src="https://www.youtube.com/embed/Em61LO9teOI"
-    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  content: <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/Em61LO9teOI"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: countdown
   block: countdown
 - template: speakers
