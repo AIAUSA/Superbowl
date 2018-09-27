@@ -17,6 +17,7 @@ fields:
   name: feature_image
   label: Image
 pages:
+- _inductees/bruce-matthews.md
 - _inductees/aeneas-williams.md
 - _inductees/darren-woodson.md
 - _inductees/trent-dilfer.md
