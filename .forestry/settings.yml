@@ -5,21 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: _gallery
-  label: Gallery
+  path: ''
+  label: Pages
   create: documents
-  match: "**.md"
-  new_doc_ext: "*.md"
+  match: "*.md"
   templates:
-  - gallery-580078a6-6049-47a4-9103-eb374425d359
-- type: directory
-  path: _sponsors
-  label: Sponsors
-  create: documents
-  match: "**.md"
-  new_doc_ext: "*.md"
-  templates:
-  - sponsor
+  - page-builder
 - type: directory
   path: _inductees
   label: Inductees
@@ -31,12 +22,21 @@ sections:
   label: Press Releases
   create: all
 - type: directory
-  path: ''
-  label: Pages
+  path: _sponsors
+  label: Sponsors
   create: documents
-  match: "*.md"
+  match: "**.md"
+  new_doc_ext: "*.md"
   templates:
-  - page-builder
+  - sponsor
+- type: directory
+  path: _gallery
+  label: Gallery
+  create: documents
+  match: "**.md"
+  new_doc_ext: "*.md"
+  templates:
+  - photo-gallery
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
