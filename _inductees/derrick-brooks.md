@@ -3,7 +3,6 @@ title: Derrick Brooks
 date: 2018-09-27 19:43:29 +0000
 year: 2005
 feature_image: "/uploads/brooks.jpg"
-published: false
 
 ---
 Derrick Brooks has long been recognized as the NFL’s best linebacker and he elevated his status as the league’s most accomplished defender after being honored as the NFL’s Defensive Player of the Year in 2002. Brooks served as Team Captain of the Tampa Bay Buccaneers and was instrumental in leading the Bucs to their first Super Bowl Championship in 27 seasons. He has played at a level unmatched among NFL linebackers and has been named to six consecutive Pro Bowls (1997-2002). Brooks ranks as the most prolific tackler in franchise history with 1,277 stops and is the only linebacker in NFL history to have three interception returns for a touchdown in s a season (2002). In 2000, Brooks was named co-recipient of the Walter Payton/NFL Man of the Year along with Jim Flanigan of the Chicago Bears.
