@@ -17,6 +17,7 @@ fields:
   name: feature_image
   label: Image
 pages:
+- _inductees/kurt-warner.md
 - _inductees/drew-brees.md
 - _inductees/london-fletcher.md
 - _inductees/matthew-slater.md
