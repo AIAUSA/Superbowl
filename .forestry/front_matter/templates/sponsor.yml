@@ -1,0 +1,25 @@
+---
+label: Sponsor
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: link
+  label: Link
+- type: select
+  name: type
+  config:
+    source:
+      type: simple
+    options:
+    - National Title
+    - Presenting
+    - Corporate
+    - Executive
+  label: Type
+- type: file
+  name: logo
+  label: Logo
