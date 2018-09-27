@@ -4,6 +4,11 @@ title: Home Page
 page_sections:
 - template: about
   block: about
+- template: text
+  block: text
+  content: <p>&lt;iframe width="560" height="315" src="<a href="https://www.youtube.com/embed/Em61LO9teOI"
+    title="https://www.youtube.com/embed/Em61LO9teOI">https://www.youtube.com/embed/Em61LO9teOI</a>"
+    frameborder="0" allow="autoplay; encrypted-media" allowfullscreen&gt;&lt;/iframe&gt;</p>
 - template: countdown
   block: countdown
 - template: speakers
