@@ -17,6 +17,7 @@ fields:
   name: feature_image
   label: Image
 pages:
+- _inductees/derrick-brooks.md
 - _inductees/curtis-martin.md
 - _inductees/john-lynch.md
 - _inductees/warrick-dunn.md
