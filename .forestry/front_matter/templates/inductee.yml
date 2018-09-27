@@ -17,6 +17,7 @@ fields:
   name: feature_image
   label: Image
 pages:
+- _inductees/darrell-green.md
 - _inductees/brent-jones.md
 - _inductees/bruce-matthews.md
 - _inductees/aeneas-williams.md
