@@ -3,7 +3,6 @@ title: LaDainian Tomlinson (LT)
 date: 2018-09-27 19:34:08 +0000
 year: 2009
 feature_image: "/uploads/LTBio.jpg"
-published: false
 
 ---
 LaDainian Tomlinson or “LT,” as he is known by his legion of fans around the world, had a season for the ages in 2006 as he set NFL records with 31 total touchdowns and 28 rushing touchdowns. His outstanding season was capped off in January when the NFL bestowed two of its highest honors upon LT, selecting him as its Most Valuable Player and its Man of the Year.
