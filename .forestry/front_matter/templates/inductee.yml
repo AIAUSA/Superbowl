@@ -16,3 +16,5 @@ fields:
 - type: file
   name: feature_image
   label: Image
+pages:
+- _inductees/matthew-slater.md
