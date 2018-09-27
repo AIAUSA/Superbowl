@@ -17,5 +17,6 @@ fields:
   name: feature_image
   label: Image
 pages:
+- _inductees/peyton-manning.md
 - _inductees/thomas-davis.md
 - _inductees/matthew-slater.md
