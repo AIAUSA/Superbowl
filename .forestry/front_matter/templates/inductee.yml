@@ -17,6 +17,7 @@ fields:
   name: feature_image
   label: Image
 pages:
+- _inductees/anthony-munoz.md
 - _inductees/mike-singletary.md
 - _inductees/reggie-white.md
 - _inductees/gill-byrd.md
