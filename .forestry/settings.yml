@@ -18,7 +18,7 @@ sections:
   path: ''
   label: Pages
   create: documents
-  match: "**/*.md"
+  match: "*.md"
   templates:
   - page-builder
 upload_dir: uploads
