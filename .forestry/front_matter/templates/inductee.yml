@@ -17,6 +17,7 @@ fields:
   name: feature_image
   label: Image
 pages:
+- _inductees/warren-moon.md
 - _inductees/cris-carter.md
 - _inductees/jackie-slater.md
 - _inductees/irving-fryar.md
