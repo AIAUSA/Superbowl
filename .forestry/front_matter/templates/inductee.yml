@@ -17,6 +17,7 @@ fields:
   name: feature_image
   label: Image
 pages:
+- _inductees/darren-woodson.md
 - _inductees/trent-dilfer.md
 - _inductees/troy-vincent.md
 - _inductees/derrick-brooks.md
