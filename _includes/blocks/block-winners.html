@@ -1,8 +1,14 @@
 <div class="container">
-    <h4>Past Bart Starr Award Winners</h4>
+    <h3>Past Bart Starr Award Winners</h3>
+    <br />
+    <br />
     {% for post in site.inductees %}
-    <div class="team-entry" style=" margin-bottom: 5px;">
-        <a class="team-pos" style="color: #000; font-weight: bold;">{{ post.year }}</a><br /><a class="team-title" style="text-decoration: underline; width: 100%" href="{{ site.baseurl }}{{ post.url | replace: '.html', '' }}">{{ post.title }}</a>
+    <div class="col-sm-3">
+        <div class="speaker" style="height: 100px;">
+            <!--<div class="photo-wrapper rounded"><img src="{{site.baseurl}}/{{post.feature_image}}" alt="{{post.title}}" class="img-responsive"></div>-->
+            <h3 class="name"><a class="team-title" style="text-decoration: underline; width: 100%" href="{{ site.baseurl }}{{ post.url | replace: '.html', '' }}">{{post.title}}</a></h3>
+            <p class="text-alt"><small>{{ post.year }}</small></p>
+        </div>
     </div>
     {% endfor %}
 </div>
