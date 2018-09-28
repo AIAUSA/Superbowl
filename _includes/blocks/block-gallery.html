@@ -6,193 +6,26 @@
 			<br/>
 
 			<div class="gallery masonry">
+				{% for post in site.gallery limit:1 %}
+				{% assign sorted = post.images | reverse %}
+				{% for image in sorted %}
 				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-1">
-						<img src="assets/img/gallery/gallery1-thumb.jpg" alt="">
+					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-{{forloop.index}}">
+						<img src="{{site.baseurl}}{{image}}" alt="">
 					</a>
 
-					<div class="modal-window" data-modal="gallery-1">
+					<div class="modal-window" data-modal="gallery-{{forloop.index}}">
 						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
 							<span class="close-btn icon icon-office-52"></span>
 
 							<br/>
 
-							<img src="assets/img/gallery/gallery1.jpg" class="full-width-img" alt="gallery1">
+							<img src="{{site.baseurl}}{{image | replace: '-thumb',''}}" class="full-width-img" alt="gallery{{forloop.index}}">
 						</div>
 					</div>
 				</span>
-
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-2">
-						<img src="assets/img/gallery/gallery2-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-2">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery2.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-3">
-						<img src="assets/img/gallery/gallery3-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-3">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery3.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
-
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-4">
-						<img src="assets/img/gallery/gallery4-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-4">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery4.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-5">
-						<img src="assets/img/gallery/gallery5-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-5">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery5.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
-
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-6">
-						<img src="assets/img/gallery/gallery6-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-6">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery6.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-7">
-						<img src="assets/img/gallery/gallery7-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-7">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery7.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
-
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-8">
-						<img src="assets/img/gallery/gallery8-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-8">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery8.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
-
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-9">
-						<img src="assets/img/gallery/gallery9-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-9">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery9.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-10">
-						<img src="assets/img/gallery/gallery10-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-10">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery10.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
-
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-11">
-						<img src="assets/img/gallery/gallery11-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-11">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery11.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
-
-				<span class="masonry-item">
-					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-12">
-						<img src="assets/img/gallery/gallery12-thumb.jpg" alt="">
-					</a>
-
-					<div class="modal-window" data-modal="gallery-12">
-						<div class="modal-box medium animated" data-animation="zoomIn" data-duration="700">
-							<span class="close-btn icon icon-office-52"></span>
-
-							<br/>
-
-							<img src="assets/img/gallery/gallery12.jpg" class="full-width-img" alt="gallery1">
-						</div>
-					</div>
-				</span>
+				{% endfor %}
+				{% endfor %}
 			</div>
 			<div class="col-sm-6" ><div class="videowrapper">
 				<iframe style="width: 100%;" src="https://www.youtube.com/embed/Q0DRgW-XlxM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
