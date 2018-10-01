@@ -1,0 +1,6 @@
+s3_id: <%= ENV['AWSKeyID'] %>
+s3_secret: <%= ENV['AWSSecretKey'] %>
+s3_bucket: build.superbowlbreakfast.com
+cache_control: public, no-transform, max-age=1200, s-maxage=1200
+exclude_from_upload:
+  - postbuild.sh
