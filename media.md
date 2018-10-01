@@ -1,6 +1,6 @@
 ---
 layout: blocks
-slug: media
+slug: media/
 page_sections:
 - template: press-releases
   block: press-releases
