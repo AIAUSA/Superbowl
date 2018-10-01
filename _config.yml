@@ -26,9 +26,6 @@ github_username:  AJGarrett
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
 collections:
   inductees:
     title: bartstarr
@@ -40,7 +37,7 @@ collections:
   posts:
     title: Posts
     output: true
-    permalink: "/media/:year/:title"
+    permalink: "/media/:year/:path"
   sponsors:
     title: Sponsors
     output: false
@@ -62,11 +59,14 @@ defaults:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - goaia-jekyll.gemspec
+   - node_modules
+   - vendor/bundle/
+   - vendor/cache/
+   - vendor/gems/
+   - vendor/ruby/
+   - postbuild.sh
+   - s3_website.yml

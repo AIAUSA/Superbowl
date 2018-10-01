@@ -1,6 +1,6 @@
 ---
 layout: blocks
-permalink: bartstarr/index
+permalink: bartstarr
 title: Bart Starr Award Winners
 page_sections:
 - template: text-w-right-image
