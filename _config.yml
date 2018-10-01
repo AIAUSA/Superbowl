@@ -33,14 +33,14 @@ collections:
   inductees:
     title: bartstarr
     output: true
-    permalink: /bartstarr/:title
+    permalink: "/bartstarr/:title"
   media:
     title: Media
     output: true
   posts:
     title: Posts
     output: true
-    permalink: /media/:year/:title
+    permalink: "/media/:year/:title"
   sponsors:
     title: Sponsors
     output: false
