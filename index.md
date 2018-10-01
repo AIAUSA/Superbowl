@@ -1,7 +1,7 @@
 ---
 layout: home-blocks
 title: Home Page
-slug: index
+permalink: index
 page_sections:
 - template: about
   block: about

@@ -1,6 +1,6 @@
 ---
 layout: blocks
-slug: media/index
+permalink: media/index
 page_sections:
 - template: press-releases
   block: press-releases
