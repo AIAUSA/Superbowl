@@ -11,7 +11,7 @@
 				{% for image in sorted %}
 				<span class="masonry-item">
 					<a href="#" class="gallery-thumb-link" data-modal-link="gallery-{{forloop.index}}">
-						<img src="{{site.baseurl}}{{image}}" alt="">
+						<img src="{{image}}" alt="">
 					</a>
 
 					<div class="modal-window" data-modal="gallery-{{forloop.index}}">
@@ -20,7 +20,7 @@
 
 							<br/>
 
-							<img src="{{site.baseurl}}{{image | replace: '-thumb',''}}" class="full-width-img" alt="gallery{{forloop.index}}">
+							<img src="{{image | replace: '-thumb',''}}" class="full-width-img" alt="gallery{{forloop.index}}">
 						</div>
 					</div>
 				</span>
