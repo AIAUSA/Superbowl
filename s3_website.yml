@@ -4,3 +4,5 @@ s3_bucket: build.superbowlbreakfast.com
 cache_control: public, no-transform, max-age=1200, s-maxage=1200
 exclude_from_upload:
   - postbuild.sh
+cloudfront_distribution_id: E1NZ3UPDHZRC14
+cloudfront_wildcard_invalidation: true
