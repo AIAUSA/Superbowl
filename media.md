@@ -1,6 +1,6 @@
 ---
 layout: blocks
-permalink: /media
+permalink: /press
 page_sections:
 - template: press-releases
   block: press-releases
