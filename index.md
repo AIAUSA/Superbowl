@@ -30,7 +30,8 @@ page_sections:
     Bastian, CEO, Delta</p></li><li><p>Rodney Bullard, Executive Director, Chick-fil-A
     Foundation</p></li><li><p>Allison &amp; Billy Dukes</p></li><li><p>Warrick Dunn,
     NFL, 1997 – 2008</p></li><li><p>Todd &amp; Susan Peterson</p></li><li><p>Dan Reeves,
-    Head Coach, Atlanta Falcons 1997 – 2003, 2-time Super Bowl Champion</p></li></ul><p>Check
-    back for more updates on the 2019 Super Bowl Breakfast Host Committee.</p>
+    Head Coach, Atlanta Falcons 1997 – 2003, 2-time Super Bowl Champion</p></li><li><p>Bryant
+    &amp; Kristin Young, Atlanta Falcons</p></li></ul><p>Check back for more updates
+    on the 2019 Super Bowl Breakfast Host Committee.</p>
 
 ---
