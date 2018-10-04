@@ -27,12 +27,14 @@ page_sections:
     of Fame</p></li><li><p>Anthony Muñoz, Pro Football Hall of Fame</p></li><li><p>Mike
     Singletary, Pro Football Hall of Fame</p></li><li><p>Bart Starr, Pro Football
     Hall of Fame</p></li></ul><p class="text-alt">Host Committee:</p><ul><li><p>Ed
-    Bastian, CEO, Delta</p></li><li><p>Rodney Bullard, Executive Director, Chick-fil-A
-    Foundation</p></li><li><p>Allison &amp; Billy Dukes</p></li><li><p>Warrick Dunn,
-    NFL, 1997 – 2008</p></li><li><p>Todd &amp; Susan Peterson</p></li><li><p>Dan Reeves,
-    Head Coach, Atlanta Falcons 1997 – 2003, 2-time Super Bowl Champion</p></li><li><p>Bryant
-    &amp; Kristin Young, Atlanta Falcons</p></li></ul><p>Check back for more updates
-    on the 2019 Super Bowl Breakfast Host Committee.</p>
-published: true
+    Bastian, CEO, Delta</p></li><li><p>Paul Bowers, President &amp; CEO, Georgia Power</p></li><li><p>Rodney
+    Bullard, Executive Director, Chick-fil-A Foundation</p></li><li><p>Allison &amp;
+    Billy Dukes</p></li><li><p>Warrick Dunn, NFL, 1997 – 2008</p></li><li><p>Donna
+    Hyland, President &amp; CEO, Children's Healtcare</p></li><li><p>Ernie &amp; Cheryl
+    Johnson</p></li><li><p>Terry McGuirk, Chairman, Atlanta Braves</p></li><li><p>Todd
+    &amp; Susan Peterson</p></li><li><p>Dan Reeves, Head Coach, Atlanta Falcons 1997
+    – 2003, 2-time Super Bowl Champion</p></li><li><p>Bryant &amp; Kristin Young,
+    Atlanta Falcons</p></li></ul><p>Check back for more updates on the 2019 Super
+    Bowl Breakfast Host Committee.</p>
 
 ---
