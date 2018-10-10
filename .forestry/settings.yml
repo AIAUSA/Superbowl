@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _data/event.yml
-  label: Event Settings
 - type: heading
   label: Content
 - type: directory
@@ -44,6 +41,9 @@ sections:
   - photo-gallery
 - type: heading
   label: Settings
+- type: document
+  path: _data/event.yml
+  label: Event Settings
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
