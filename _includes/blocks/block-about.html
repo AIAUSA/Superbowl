@@ -1,3 +1,4 @@
+{% assign winner = site.inductees | sort: 'year' | reverse %}
 <section id="about" class="section align-center">
     <div class="container">
         <span class="icon section-icon icon-sport-09"></span>
@@ -12,7 +13,7 @@
                     <h6 class="heading-alt"><span class="icon icon-seo-icons-30"></span> Superbowl Breakfast</h6>
                 </a></li>
                 <li><a href="#horizontal_tab3" data-toggle="tab">
-                    <h6 class="heading-alt"><span class="fa fa-trophy"></span> 2018 Winner</h6>
+                    <h6 class="heading-alt"><span class="fa fa-trophy"></span> {{ winner[0].year }} Winner</h6>
                 </a></li>
             </ul>
 
@@ -20,23 +21,18 @@
                 <div id="horizontal_tab1" class="tab-pane fade active in">
                     <div class="row">
                         <div class="col-sm-5 img-column">
-                            <img src="assets/img/sbb2019.png" alt="" class="img-responsive" />
+                            <img src="{{ section.left_image }}" alt="" class="img-responsive" />
                         </div>
                         <div class="col-sm-7 align-left">
-                            <h6>Super Bowl Breakfast</h6>
-                            <p>The NFL-sanctioned Athletes in Action Super Bowl Breakfast has taken place in the Super Bowl host city every year since 1988, drawing sellout crowds to hear from some of sport’s biggest names.  The Bart Starr Award, presented at the breakfast, honors Starr’s lifelong commitment to serving as a positive role model to his family, teammates and community. The winner of the Bart Starr Award is determined by NFL-player balloting at the end of the regular season, making it one of only two individual honors selected by the players themselves.
+                            {{ section.right_text | markdownify }}
                         </div>
                     </div>
                     <div class="row">                    
                         <div class="col-sm-7 align-right">
-                                <h6>National Title Sponsor</h6>
-                            <p>Founded in 2011, the Super Service Challenge is a nationwide movement to transform organizations through service. Driven by the idea people and teams grow stronger when they join together to serve, the Challenge encourages volunteerism, sharing stories of service and awarding funds to nonprofits. </p>
-                            <p>The impact of the Super Service Challenge grows each year. To date, more than 100,000 people have served nearly 3,000 charities nationwide through the Challenge, and winning nonprofits have received more $30 million in awards. Online, the Challenge has shared more than 20,000 stories of service, counted more than 2.5 million votes, and made over 300 million media impressions. </p>
-                            <p>Whether you are part of a business, family, team of friends, or ministry, the Super Service Challenge provides a way to facilitate teamwork and engagement that benefits individuals, teams and communities<p>
-                            <p>Please visit <a href="https://www.superservicechallenge.com">www.superservicechallenge.com</a> for more information.</p>
+                            {{ section.left_text | markdownify }}
                         </div>
                         <div class="col-sm-5 img-column">
-                            <img src="assets/img/sponsorlogo.png" alt="" class="img-responsive" />
+                            <img src="{{ section.right_image }}" alt="" class="img-responsive" />
                         </div>
                     </div>
                 </div>
@@ -44,12 +40,11 @@
                 
                 <div id="horizontal_tab3" class="tab-pane fade">
                     <div class="col-sm-5 img-column">
-                        <img src="assets/img/winners/benwatson.jpg" alt="" class="img-responsive" />
+                        <img src="{{winner[0].feature_image}}" alt="" class="img-responsive">
                     </div>
                     <div class="col-sm-7 align-left">
-                        <h6>Benjamin Watson</h6>
-                        <p><strong><span class="highlight">Benjamin Watson</span></strong> of the Baltimore Ravens is the winner of the 2018 Bart Starr Award for outstanding character, integrity and leadership on and off the field. Watson was selected by his peers in the NFL, making this the only award voted on by all the players other than the Pro Bowl.</p>
-                        <p>Watson played college football at the University of Georgia and was drafted by the New England Patriots 32nd overall in the 2004 NFL draft. He also played for the Cleveland Browns and New Orleans Saints. <a href="/bartstar">Read More...</a></p>
+                        <h6>{{winner[0].title}}</h6>
+                        {{ winner[0].content }}
                     </div>
                 </div>
             </div>

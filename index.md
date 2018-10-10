@@ -6,7 +6,7 @@ page_sections:
 - template: about
   block: about
   left_image: "/uploads/sbb2019.png"
-  right_text: "######   \nSuper Bowl Breakfast\n\nThe NFL-sanctioned Athletes in Action
+  right_text: "###### Super Bowl Breakfast\n\nThe NFL-sanctioned Athletes in Action
     Super Bowl Breakfast has taken place in the Super Bowl host city every year since
     1988, drawing sellout crowds to hear from some of sport’s biggest names. The Bart
     Starr Award, presented at the breakfast, honors Starr’s lifelong commitment to
@@ -41,6 +41,20 @@ page_sections:
     credentials: Co-Host of American Ninja Warrior, Sports Analyst, NFL Network
     image: "/uploads/speaker1.jpg"
   - template: speaker
+    name: TONY DUNGY
+    title: Super Bowl Champion Coach
+    credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
+    image: "/uploads/speaker2.jpg"
+  - template: speaker
+    name: ANTHONY MUNOZ
+    title: Cincinnati Bengals, 1980 -1992
+    credentials: Pro Football Hall of Fame
+    image: "/uploads/speaker3.jpg"
+  - template: speaker
+    name: DAN REEVES
+    title: NFL, 1965 - 2003
+    credentials: 2x Super Bowl Champion Coach (VI, XII)
+    image: "/uploads/speaker4.jpg"
 - template: sponsors
   block: sponsors
 - template: tickets
