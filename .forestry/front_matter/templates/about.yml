@@ -9,3 +9,23 @@ fields:
   name: block
   hidden: true
   default: about
+- type: file
+  name: left_image
+  label: Left Image
+- type: textarea
+  name: right_text
+  label: Right Text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: textarea
+  name: left_text
+  label: Left Text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: file
+  name: right_image
+  label: Right Image
