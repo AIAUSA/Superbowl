@@ -9,3 +9,8 @@ fields:
   name: block
   hidden: true
   default: speakers
+- type: blocks
+  template_types:
+  - speaker
+  label: Bios
+  name: bios
