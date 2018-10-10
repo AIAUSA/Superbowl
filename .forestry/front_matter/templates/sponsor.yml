@@ -23,3 +23,5 @@ fields:
 - type: file
   name: logo
   label: Logo
+pages:
+- _sponsors/super-service-challenge.*.md
