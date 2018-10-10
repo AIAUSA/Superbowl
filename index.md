@@ -34,6 +34,13 @@ page_sections:
   block: countdown
 - template: speakers
   block: speakers
+  bios:
+  - template: speaker
+    name: AKBAR GBAJABIAMILA
+    title: NFL, 2003 - 2008
+    credentials: Co-Host of American Ninja Warrior, Sports Analyst, NFL Network
+    image: "/uploads/speaker1.jpg"
+  - template: speaker
 - template: sponsors
   block: sponsors
 - template: tickets
