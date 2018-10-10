@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: _data/event.yml
+  label: Event Settings
+  match: "**/*"
 - type: heading
   label: Content
 - type: directory
@@ -39,6 +43,8 @@ sections:
   new_doc_ext: "*.md"
   templates:
   - photo-gallery
+- type: heading
+  label: Settings
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
