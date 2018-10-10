@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _data/event.yml
   label: Event Settings
-  match: "**/*"
 - type: heading
   label: Content
 - type: directory
