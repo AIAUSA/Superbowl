@@ -1,0 +1,18 @@
+---
+label: Speaker
+hide_body: true
+is_partial: true
+display_field: name
+fields:
+- type: text
+  name: name
+  label: Name
+- type: text
+  label: Title
+  name: title
+- type: text
+  name: credentials
+  label: Credentials
+- type: file
+  name: image
+  label: Image
