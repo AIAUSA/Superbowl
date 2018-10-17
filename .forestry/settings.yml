@@ -4,6 +4,8 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: directory
   path: ''
   label: Pages
@@ -37,6 +39,14 @@ sections:
   new_doc_ext: "*.md"
   templates:
   - photo-gallery
+- type: heading
+  label: Settings
+- type: document
+  path: _data/event.yml
+  label: Event Settings
+- type: document
+  path: _data/tickets.yml
+  label: Ticket Prices
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

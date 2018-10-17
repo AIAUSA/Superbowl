@@ -1,6 +1,8 @@
 ---
 layout: default
-permalink: /gallery
+permalink: "/gallery"
+title: Photo Gallery
+
 ---
 <section id="gallery" class="section align-center">
 		<div class="container">

@@ -24,5 +24,7 @@ fields:
   name: logo
   label: Logo
 pages:
+- _sponsors/shelter-home-mortgage.*.md
+- _sponsors/chick-fil-a.*.md
 - _sponsors/thrivent.*.md
 - _sponsors/super-service-challenge.*.md
