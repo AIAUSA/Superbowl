@@ -1,6 +1,6 @@
 ---
 title: Steve Largent
-date: 2018-09-27 20:07:02 +0000
+date: 1989-09-27 20:07:02 +0000
 year: 1989
 feature_image: "/uploads/Stevelargent.jpg"
 

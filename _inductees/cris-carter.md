@@ -1,6 +1,6 @@
 ---
 title: Cris Carter
-date: 2018-09-27 19:58:04 +0000
+date: 1995-09-27 19:58:04 +0000
 year: 1995
 feature_image: "/uploads/Cris_Carter.jpg"
 

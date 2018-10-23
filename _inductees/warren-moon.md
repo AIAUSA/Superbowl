@@ -1,6 +1,6 @@
 ---
 title: Warren Moon
-date: 2018-09-27 20:01:25 +0000
+date: 1994-09-27 20:01:25 +0000
 year: 1994
 feature_image: "/uploads/Warren_Moon.jpg"
 

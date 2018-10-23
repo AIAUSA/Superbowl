@@ -1,6 +1,6 @@
 ---
 title: Thomas Davis
-date: 2018-09-27 13:12:49 +0000
+date: 2016-09-27 13:12:49 +0000
 year: 2016
 feature_image: "/uploads/Thomas-Davis-headshot-web.jpg"
 

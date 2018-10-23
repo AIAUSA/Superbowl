@@ -1,6 +1,6 @@
 ---
 title: Aaron Rodgers
-date: 2018-09-27 14:40:42 +0000
+date: 2014-09-27 14:40:42 +0000
 year: 2014
 feature_image: "/uploads/Aaron-Rodgers-Headshot-web.jpg"
 

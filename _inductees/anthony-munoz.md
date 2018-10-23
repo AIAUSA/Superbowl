@@ -1,6 +1,6 @@
 ---
 title: Anthony Munoz
-date: 2018-09-27 20:05:45 +0000
+date: 1990-09-27 20:05:45 +0000
 year: 1990
 feature_image: "/uploads/portrait_8340.jpg"
 

@@ -1,6 +1,6 @@
 ---
 title: Peyton Manning
-date: 2018-09-27 14:39:18 +0000
+date: 2015-09-27 14:39:18 +0000
 year: 2015
 feature_image: "/uploads/manning-bio-photo.jpg"
 

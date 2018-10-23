@@ -1,6 +1,6 @@
 ---
 title: LaDainian Tomlinson (LT)
-date: 2018-09-27 19:34:08 +0000
+date: 2009-09-27 19:34:08 +0000
 year: 2009
 feature_image: "/uploads/LTBio.jpg"
 

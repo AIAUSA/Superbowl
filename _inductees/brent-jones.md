@@ -1,6 +1,6 @@
 ---
 title: Brent Jones
-date: 2018-09-27 19:52:07 +0000
+date: 1999-09-27 19:52:07 +0000
 year: 1999
 feature_image: "/uploads/brent_jones.jpg"
 

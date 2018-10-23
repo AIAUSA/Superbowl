@@ -2,8 +2,8 @@
     <h3>Past Bart Starr Award Winners</h3>
     <br />
     <br />
-    {% assign sorted = (site.inductees | sort: year) %}
-    {% for post in sorted | reverse %}
+    {% assign sorted = site.inductees | sort: 'date' | reverse %}
+    {% for post in sorted  %}
     <div class="col-sm-3">
         <div class="speaker" style="height: 100px;">
             <!--<div class="photo-wrapper rounded"><img src="{{site.baseurl}}/{{post.feature_image}}" alt="{{post.title}}" class="img-responsive"></div>-->

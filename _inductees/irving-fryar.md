@@ -1,6 +1,6 @@
 ---
 title: Irving Fryar
-date: 2018-09-27 19:54:24 +0000
+date: 1997-09-27 19:54:24 +0000
 year: 1997
 feature_image: "/uploads/Irving_Fryar.jpg"
 

@@ -1,6 +1,6 @@
 ---
 title: Jackie Slater
-date: 2018-09-27 19:55:12 +0000
+date: 1996-09-27 19:55:12 +0000
 year: 1996
 feature_image: "/uploads/Jackie_Slater.jpg"
 

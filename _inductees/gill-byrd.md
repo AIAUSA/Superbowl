@@ -1,6 +1,6 @@
 ---
 title: Gill Byrd
-date: 2018-09-27 20:02:12 +0000
+date: 1993-09-27 20:02:12 +0000
 year: 1993
 feature_image: "/uploads/Gill_Byrd.jpg"
 

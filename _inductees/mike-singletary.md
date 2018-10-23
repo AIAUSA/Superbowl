@@ -1,6 +1,6 @@
 ---
 title: Mike Singletary
-date: 2018-09-27 20:04:51 +0000
+date: 1991-09-27 20:04:51 +0000
 year: 1991
 feature_image: "/uploads/Mike_Singletary.jpg"
 
