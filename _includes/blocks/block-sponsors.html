@@ -23,7 +23,7 @@
 			{% endif %}
 			{% assign csponsors = site.sponsors | where: "type", "Corporate" %}
 			{% if csponsors.size > 0 %}
-			<h4>Corporate Sponsors</h4>
+			<h4>Corporate Sponsor</h4>
 			<div class="sponsors">
 				{% for s in csponsors %}
 					<div class="sponsor medium"><img src="{{ s.logo }}" alt=""></div>
