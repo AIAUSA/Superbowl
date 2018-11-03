@@ -24,6 +24,7 @@ fields:
   name: logo
   label: Logo
 pages:
+- _sponsors/relish.*.md
 - _sponsors/mashburn.*.md
 - _sponsors/shelter-home-mortgage.*.md
 - _sponsors/chick-fil-a.*.md
