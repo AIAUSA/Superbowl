@@ -69,8 +69,9 @@ page_sections:
     Director, Chick-fil-A Foundation</p></li><li><p>Coach Bill Curry</p></li><li><p>Billy
     &amp; Allison Dukes</p></li><li><p>Warrick Dunn, NFL, 1997 – 2008</p></li><li><p>Donna
     Hyland, President &amp; CEO, Children's Healthcare</p></li><li><p>Ernie &amp;
-    Cheryl Johnson</p></li><li><p>Rev. Dr. Bernice A. King, CEO, The King Center</p></li><li><p>Terry
-    McGuirk, Chairman, Atlanta Braves</p></li><li><p>Todd &amp; Susan Peterson</p></li><li><p>Dan
+    Cheryl Johnson</p></li><li><p>Rev. Dr. Bernice A. King, CEO, The King Center</p></li><li><p>Eloisa
+    Klementich, President and CEO of Invest Atlanta</p></li><li><p>Terry McGuirk,
+    Chairman, Atlanta Braves</p></li><li><p>Todd &amp; Susan Peterson</p></li><li><p>Dan
     Quinn, Head Coach, Atlanta Falcons</p></li><li><p>Teresa Rasmussen, President
     &amp; CEO, Thrivent</p></li><li><p>Dan Reeves, Head Coach, Atlanta Falcons 1997
     – 2003, 2-time Super Bowl Champion</p></li><li><p>Vivian A. Wong, Founder, Touchmark
