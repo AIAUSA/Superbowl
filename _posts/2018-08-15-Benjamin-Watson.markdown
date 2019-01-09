@@ -1,5 +1,5 @@
 ---
-title: BALTIMORE RAVENS TIGHT END BENJAMIN WATSON WINS 2018 BART STARR AWARD
+title: Baltimore Ravens Tight End Benjamin Watson Wins 2018 Bart Starr Award
 date: 2018-02-02 14:07:57 +0000
 
 ---
