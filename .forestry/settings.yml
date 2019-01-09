@@ -23,6 +23,8 @@ sections:
 - type: jekyll-posts
   label: Press Releases
   create: all
+  templates:
+  - press-releases
 - type: directory
   path: _sponsors
   label: Sponsors
