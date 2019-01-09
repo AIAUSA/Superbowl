@@ -1,11 +1,4 @@
 ---
-year: Jaguars Defensive End, Calais Campbell, Wins 2019 Bart Starr Award
-images:
-- "/uploads/Press Release Award Winner 2019-4.pdf"
-- "/uploads/Press Release Award Winner 2019-3.pdf"
-- "/uploads/Press Release Award Winner 2019-2.pdf"
-- "/uploads/Press Release Award Winner 2019-1.pdf"
-- "/uploads/Press Release Award Winner 2019.pdf"
 title: Jaguars' Calais Campbell Selected for Prestigious Character Award
 date: 2019-01-09 05:00:00 +0000
 

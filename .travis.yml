@@ -1,8 +1,8 @@
 language: ruby
 rvm:
   - 2.1
-install: gem install ruby_dep -v 1.3.1 && gem install listen -v 3.0.8 && gem install jekyll -v 2.4.0 && gem install s3_website
-script: jekyll build
+install: 
+script: bundle exec jekyll build
 after_success: 
   - bash postbuild.sh
   - s3_website push
