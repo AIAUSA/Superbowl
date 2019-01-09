@@ -1,7 +1,7 @@
 language: ruby
 rvm:
   - 2.1
-cache: bundler
+#cache: bundler
 install: gem install s3_website
 script: bundle exec jekyll build
 after_success: 
