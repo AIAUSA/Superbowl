@@ -22,7 +22,7 @@ sections:
   - inductee
 - type: jekyll-posts
   label: Press Releases
-  create: all
+  create: documents
   templates:
   - press-releases
 - type: directory
