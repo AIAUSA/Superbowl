@@ -10,6 +10,8 @@ page_sections:
     ###### Super Bowl Breakfast
 
     The NFL-sanctioned Athletes in Action Super Bowl Breakfast has taken place in the Super Bowl host city every year since 1988, drawing sellout crowds to hear from some of sport’s biggest names. The Bart Starr Award, presented at the breakfast, honors Starr’s lifelong commitment to serving as a positive role model to his family, teammates and community. The winner of the Bart Starr Award is determined by NFL-player balloting at the end of the regular season, making it one of only two individual honors selected by the players themselves.
+
+    \*Dress is business casual. Tickets are non-refundable and are not tax-deductible.
   left_text: |-
     ###### National Title Sponsor
 
