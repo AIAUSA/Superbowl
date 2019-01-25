@@ -9,7 +9,7 @@ page_sections:
   block: text
   content: |-
     <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
-        class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/n2UOhJ-KIJ0"
+        class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/KmmQhda4cwM"
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: centered-text
   block: centered-text
