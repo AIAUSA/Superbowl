@@ -34,6 +34,11 @@ page_sections:
   block: speakers
   bios:
   - template: speaker
+    image: "/uploads/Calais Campbell.png"
+    name: Calais Campbell
+    title: 2019 Bart Starr Award Winner
+    credentials: Jacksonville Jaguars Defensive Captain
+  - template: speaker
     name: AKBAR GBAJABIAMILA
     title: NFL, 2003 - 2008
     credentials: Co-Host of American Ninja Warrior, Sports Analyst, NFL Network
@@ -53,6 +58,10 @@ page_sections:
     title: NFL, 1965 - 2003
     credentials: 2x Super Bowl Champion Coach (VI, XII)
     image: "/uploads/speaker4.jpg"
+  - template: speaker
+    name: Frank Reich
+    title: Coach, Indianapolis Colts
+    image: "/uploads/Frank Reich.jpg"
 - template: sponsors
   block: sponsors
 - template: tickets
