@@ -1,5 +1,5 @@
 ---
-- name: Priority
+- name: Priority-SOLD OUT
   table-cost: 2500
   seat-cost: 250
   table-desc: Best available seats nearest to Sponsor and VIP seating. Clear lines
