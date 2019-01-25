@@ -1,65 +1,81 @@
 <section id="prices" class="section align-center">
-		<div class="container">
-			<span class="icon section-icon icon-shopping-04"></span>
-			<h3>Tickets</h3>
-			<p class="text-alt">Get yours while they are still <span class="highlight">available</span>
+	<div class="container">
+		<span class="icon section-icon icon-shopping-04"></span>
+		<h3>Tickets</h3>
+		<p class="text-alt">Get yours while they are still <span class="highlight">available</span>
 			<br />Tables are assigned on a first come, first served basis.</p>
-			<br/>
-			<br/>
-			{% if site.data.event.sold_out == 0 %}
-			<div class="row no-margin">
-				<div class="no-padding col-xs-12 col-sm-3">
-					<div class="price">
-						<div class="price-top package-column">
-							<h4 class="price-title">{{ site.data.tickets[0].name}} Seating</h4>
-							<div class="price-category">Table</div>
-							<div class="price-per"><sup>$</sup>{{ site.data.tickets[0].table-cost}}<sub>/per</sub></div>
-							<div class="price-desc">{{ site.data.tickets[0].table-desc}}</div>
-							<br />
-							<a href="{{ site.data.tickets[0].purchase-link}}" class="btn btn-lg">Buy now</a>
-						</div>
+		<br />
+		<br />
+		{% if site.data.event.sold_out == 0 %}
+		<div class="row no-margin">
+			<div class="no-padding col-xs-12 col-sm-3">
+				<div class="price">
+					<div class="price-top package-column">
+						<h4 class="price-title">{{ site.data.tickets[0].name}} Seating</h4>
+						<div class="price-category">Table</div>
+						<div class="price-per"><sup>$</sup>{{ site.data.tickets[0].table-cost}}<sub>/per</sub></div>
+						<div class="price-desc">{{ site.data.tickets[0].table-desc}}</div>
+						<br />
+						{% if site.data.tickets[0].sold-out %}
+						<a href="#" class="btn btn-lg">SOLD OUT</a>
+						{% else %}
+						<a href="{{ site.data.tickets[0].purchase-link}}" class="btn btn-lg">Buy now</a>
+						{% endif %}
 					</div>
 				</div>
-				<div class="no-padding col-xs-12 col-sm-3">
-					<div class="price left">
-						<div class="price-top package-column">
-							<h4 class="price-title">{{ site.data.tickets[0].name}} Seating</h4>
-							<div class="price-category">Seat</div>
-							<div class="price-per"><sup>$</sup>{{ site.data.tickets[0].seat-cost}}<sub>/per</sub></div>
-							<div class="price-desc">{{ site.data.tickets[0].seat-desc}}</div>
-							<br />
-							<a href="{{ site.data.tickets[0].purchase-link}}" class="btn btn-lg">Buy now</a>
-						</div>
+			</div>
+			<div class="no-padding col-xs-12 col-sm-3">
+				<div class="price left">
+					<div class="price-top package-column">
+						<h4 class="price-title">{{ site.data.tickets[0].name}} Seating</h4>
+						<div class="price-category">Seat</div>
+						<div class="price-per"><sup>$</sup>{{ site.data.tickets[0].seat-cost}}<sub>/per</sub></div>
+						<div class="price-desc">{{ site.data.tickets[0].seat-desc}}</div>
+						<br />
+						{% if site.data.tickets[0].sold-out %}
+						<a href="#" class="btn btn-lg">SOLD OUT</a>
+						{% else %}
+						<a href="{{ site.data.tickets[0].purchase-link}}" class="btn btn-lg">Buy now</a>
+						{% endif %}
 					</div>
 				</div>
-				<div class="no-padding col-xs-12 col-sm-3">
-					<div class="price">
-						<div class="price-top package-column">
-							<h4 class="price-title">{{ site.data.tickets[1].name}} Seating</h4>
-							<div class="price-category">Table</div>
-							<div class="price-per"><sup>$</sup>{{ site.data.tickets[1].table-cost}}<sub>/per</sub></div>
-							<div class="price-desc">{{ site.data.tickets[1].table-desc}}</div>
-							<br />
-							<a href="{{ site.data.tickets[1].purchase-link}}" class="btn btn-lg">Buy now</a>
-						</div>
+			</div>
+			<div class="no-padding col-xs-12 col-sm-3">
+				<div class="price">
+					<div class="price-top package-column">
+						<h4 class="price-title">{{ site.data.tickets[1].name}} Seating</h4>
+						<div class="price-category">Table</div>
+						<div class="price-per"><sup>$</sup>{{ site.data.tickets[1].table-cost}}<sub>/per</sub></div>
+						<div class="price-desc">{{ site.data.tickets[1].table-desc}}</div>
+						<br />
+						{% if site.data.tickets[1].sold-out %}
+						<a href="#" class="btn btn-lg">SOLD OUT</a>
+						{% else %}
+						<a href="{{ site.data.tickets[1].purchase-link}}" class="btn btn-lg">Buy now</a>
+						{% endif %}
 					</div>
 				</div>
-				<div class="no-padding col-xs-12 col-sm-3">
-					<div class="price left">
-						<div class="price-top package-column">
-							<h4 class="price-title">{{ site.data.tickets[1].name}} Seating</h4>
-							<div class="price-category">Seat</div>
-							<div class="price-per"><sup>$</sup>{{ site.data.tickets[1].seat-cost}}<sub>/per</sub></div>
-							<div class="price-desc">{{ site.data.tickets[1].seat-desc}}</div>
-							<br />
-							<a href="{{ site.data.tickets[1].purchase-link}}" class="btn btn-lg">Buy now</a>
-						</div>
+			</div>
+			<div class="no-padding col-xs-12 col-sm-3">
+				<div class="price left">
+					<div class="price-top package-column">
+						<h4 class="price-title">{{ site.data.tickets[1].name}} Seating</h4>
+						<div class="price-category">Seat</div>
+						<div class="price-per"><sup>$</sup>{{ site.data.tickets[1].seat-cost}}<sub>/per</sub></div>
+						<div class="price-desc">{{ site.data.tickets[1].seat-desc}}</div>
+						<br />
+						{% if site.data.tickets[1].sold-out %}
+						<a href="#" class="btn btn-lg">SOLD OUT</a>
+						{% else %}
+						<a href="{{ site.data.tickets[1].purchase-link}}" class="btn btn-lg">Buy now</a>
+						{% endif %}
 					</div>
 				</div>
+			</div>
 			{% else %}
 			<div class="row no-margin">
 				<p>{{ site.data.event.sold_out_message }}</p>
 			</div>
-			{% endif %}		
-		</div> 
-	</section>
+			{% endif %}
+		</div>
+</section>

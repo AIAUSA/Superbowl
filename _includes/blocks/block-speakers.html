@@ -1,10 +1,13 @@
 <section id="speakers" class="section align-center">
-        <div class="container">
-            <span class="icon section-icon icon-faces-users-04"></span>
-            <h3>Speakers</h3>
-            <p class="text-alt">Meet our <span class="highlight">Special Guests</span></p>
-            <br />
-            <br />
+    <div class="container">
+        {% if section.header == 1 %}
+        <span class="icon section-icon icon-faces-users-04"></span>
+        <h3>Speakers</h3>
+        <p class="text-alt">Meet our <span class="highlight">Special Guests</span></p>
+        {% endif %}
+        <br />
+        <br />
+        <div class="row text-center" style="display:flex; justify-content:center;">
             {% for speak in section.bios %}
             <div class="col-sm-3">
                 <div class="speaker">
@@ -15,4 +18,5 @@
                 </div>
             </div>
             {% endfor %}
-    </section>
+        </div>
+</section>

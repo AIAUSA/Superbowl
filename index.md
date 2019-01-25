@@ -32,12 +32,17 @@ page_sections:
   block: countdown
 - template: speakers
   block: speakers
+  header: 1
   bios:
   - template: speaker
     image: "/uploads/Calais Campbell.png"
     name: Calais Campbell
     title: 2019 Bart Starr Award Winner
     credentials: Jacksonville Jaguars Defensive Captain
+- template: speakers
+  block: speakers
+  header: 0
+  bios:
   - template: speaker
     name: AKBAR GBAJABIAMILA
     title: NFL, 2003 - 2008
@@ -53,6 +58,10 @@ page_sections:
     title: Cincinnati Bengals, 1980 -1992
     credentials: Pro Football Hall of Fame
     image: "/uploads/speaker3.jpg"
+- template: speakers
+  block: speakers
+  header: 0
+  bios:
   - template: speaker
     name: DAN REEVES
     title: NFL, 1965 - 2003
@@ -61,7 +70,7 @@ page_sections:
   - template: speaker
     name: Frank Reich
     title: Coach, Indianapolis Colts
-    image: "/uploads/Frank Reich.jpg"
+    image: "/uploads/Frank-Reich.jpg"
 - template: sponsors
   block: sponsors
 - template: tickets

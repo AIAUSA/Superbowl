@@ -9,6 +9,10 @@ fields:
   name: block
   hidden: true
   default: speakers
+- type: boolean
+  name: header
+  label: Headers
+  description: Shows header for this section
 - type: blocks
   template_types:
   - speaker

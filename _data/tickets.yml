@@ -1,12 +1,13 @@
 ---
-- name: Priority-SOLD OUT
-  table-cost: 2500-SOLD OUT
-  seat-cost: 250-SOLD OUT
+- name: Priority
+  table-cost: 2500
+  seat-cost: 250
   table-desc: Best available seats nearest to Sponsor and VIP seating. Clear lines
     of site to the stage. Good for 10 people.
   seat-desc: Best available seats nearest to Sponsor and VIP seating. Clear lines
     of site to the stage. Ticket Good for 1 Person.
   purchase-link: https://secure.ministrysync.com/ministrysync/event/?e=16408
+  sold-out: true
 - name: Corporate
   table-cost: 2000
   seat-cost: 200
@@ -14,3 +15,4 @@
     just behind Priority Seating. Good for 10 people.
   seat-desc: Set just behind Priority Seating. Good for 1 Person.
   purchase-link: https://secure.ministrysync.com/ministrysync/event/?e=16408
+  sold-out: false
