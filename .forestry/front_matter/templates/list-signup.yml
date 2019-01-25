@@ -1,0 +1,11 @@
+---
+label: List Signup
+hide_body: true
+is_partial: true
+display_field: block
+fields:
+- type: text
+  name: block
+  label: Block
+  default: list-signup
+  hidden: true

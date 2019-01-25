@@ -38,6 +38,10 @@ collections:
     title: Posts
     output: true
     permalink: "/media/:year/:path"
+  followup:
+    title: Follow-Up
+    output: true
+    permalink: "/resources/:path"
   sponsors:
     title: Sponsors
     output: false
@@ -55,6 +59,11 @@ defaults:
     type: posts
   values:
     layout: release
+- scope:
+    path: ''
+    type: followup
+  values:
+    layout: followup
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

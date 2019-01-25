@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<section class="section press">
+	{% for section in page.page_sections %}
+	{% include blocks/block-{{ section.block }}.html %}
+	{% endfor %}
+</section>
+<script type="application/javascript" src="https://campaign-forms.cru.org/assets/campaign-form.js"></script>

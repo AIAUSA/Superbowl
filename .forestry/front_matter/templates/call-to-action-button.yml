@@ -1,0 +1,17 @@
+---
+label: Call to Action Button
+hide_body: true
+is_partial: true
+display_field: block
+fields:
+- type: text
+  name: block
+  label: Block
+  default: cta
+  hidden: true
+- type: text
+  name: link
+  label: URL
+- type: text
+  name: text
+  label: Button Text

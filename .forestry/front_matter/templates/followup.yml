@@ -1,0 +1,24 @@
+---
+label: Page-Builder
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  default: blocks
+- type: text
+  label: URL
+  name: slug
+- type: blocks
+  name: page_sections
+  label: Page Sections
+  template_types:
+  - html-text
+  - text-w-right-image
+  - call-to-action-button
+  - list-signup

@@ -41,6 +41,14 @@ sections:
   new_doc_ext: "*.md"
   templates:
   - photo-gallery
+- type: directory
+  path: _followup
+  label: Follow-Up
+  create: documents
+  match: "**.md"
+  new_doc_ext: "*.md"
+  templates:
+  - followup
 - type: heading
   label: Settings
 - type: document
