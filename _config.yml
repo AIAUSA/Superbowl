@@ -41,7 +41,7 @@ collections:
   followup:
     title: Follow-Up
     output: true
-    permalink: "/resources/:path"
+    permalink: "/welcome/:title"
   sponsors:
     title: Sponsors
     output: false

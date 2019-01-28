@@ -9,15 +9,11 @@ page_sections:
   block: text
   content: |-
     <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
-        class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/KmmQhda4cwM"
+        class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/KmmQhda4cwM?showinfo=0&controls=0&modestbranding=1"
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: centered-text
   block: centered-text
-  content: "Athletes In Action would love to Resource You"
-- template: cta
-  block: cta
-  link: "#"
-  text: "Call To Action Example"
+  content: "I want resources to get connected"
 - template: list-signup
   block: list-signup
 ---

@@ -43,7 +43,7 @@ sections:
   - photo-gallery
 - type: directory
   path: _followup
-  label: Follow-Up
+  label: Welcome Series
   create: documents
   match: "**.md"
   new_doc_ext: "*.md"
