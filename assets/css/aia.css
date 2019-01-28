@@ -136,3 +136,15 @@ h3 {
 .bg-cover a {
   color: white;
 }
+
+.followup section { 
+  padding: 8px 0; 
+}
+
+.followup section p, .followup section label {
+  font-size: 13px !important;
+}
+
+.followup section input[type=text] { 
+
+}
