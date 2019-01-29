@@ -13,7 +13,7 @@ page_sections:
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: centered-text
   block: centered-text
-  content: "I want resources to get connected"
+  content: "I want to get connected."
 - template: list-signup
   block: list-signup
 ---
