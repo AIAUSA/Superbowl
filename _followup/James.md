@@ -20,6 +20,6 @@ page_sections:
 - template: cta
   block: cta
   link:  https://athletesinaction.org/underreview/ten-things-christians-need-to-know-before-the-super-bowl#.XFMUMC2ZM_U
-  text: Show me How
+  text: Read More
 ---
 
