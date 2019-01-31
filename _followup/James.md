@@ -16,10 +16,10 @@ page_sections:
         frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: text
   block: text
-  content: "<a href=''>Read</a> more for a simple resource to help you participate in events surrounding the Super Bowl with purpose and prayer."
+  content: "<a href=' https://athletesinaction.org/underreview/ten-things-christians-need-to-know-before-the-super-bowl#.XFMUMC2ZM_U'>Read more</a> for a simple resource to help you participate in events surrounding the Super Bowl with purpose and prayer."
 - template: cta
   block: cta
-  link: #
+  link:  https://athletesinaction.org/underreview/ten-things-christians-need-to-know-before-the-super-bowl#.XFMUMC2ZM_U
   text: Show me How
 ---
 
