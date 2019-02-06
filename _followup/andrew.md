@@ -1,13 +1,10 @@
 ---
 layout: followup
-title: "A Message from Andrew Provence"
+title: "Two Resources for You (from Andrew and Athletes in Action)"
 page_sections:
 - template: centered-text
   block: centered-text
-  content: "<div class='row align-center' style='display: flex; justify-content: center; padding: 8px 20px;'><h3>A Special Message from a former player, now AIA Staff, Andrew Provence</h3></div>"
-- template: centered-text
-  block: centered-text
-  content: "What if watching the Super Bowl was an opportunity to influence the culture of sport?"
+  content: "<div class='row align-center' style='display: flex; justify-content: center; padding: 8px 20px;'><h3>Two Resources for You <br />(from Andrew and Athletes in Action)</h3></div>"
 - template: html-text
   block: text
   content: |-
@@ -19,7 +16,7 @@ page_sections:
   left:
     - template: text
       block: text
-      content: "Sign up for our daily devotionals for athletes"
+      content: "Daily devotions for athletes sent straight to your phone"
     - template: cta
       block: cta
       link:    https://athletesinaction.org/subscribe
@@ -27,9 +24,9 @@ page_sections:
   right:
     - template: text
       block: text
-      content: "Get trained to make a difference with our Equipped Discipleship Process through our 20 Day Challenge"
+      content: "Learn how to share your faith with the 20 Day Challenge"
     - template: cta
       block: cta
       link:    https://athletesinaction.org/resources/equipped/challenge
-      text: Subscribe
+      text: Get Started
 ---
