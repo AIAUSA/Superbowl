@@ -1,7 +1,12 @@
 <section>
     <div class="row align-center" style="margin: 15px 0;">
         <div class="btn-container">
-            <a href="{{section.link}}" class="btn btn-md">{{section.text}}</a>
+            <a href="{{section.link}}" class="btn btn-md">
+                <span class="primary">{{ section.text }}</span>
+                {% if section.subtext != '' %}
+                <span class="subtext">{{ section.subtext }}</span>
+                {%- endif %}
+            </a>
         </div>
     </div>
 </section>

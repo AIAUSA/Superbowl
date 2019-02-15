@@ -148,3 +148,14 @@ h3 {
 .followup section input[type=text] { 
   margin: 0 0 7px;
 }
+
+.btn-container a {
+  letter-spacing: 3px;
+  line-height: 19px;
+}
+
+.btn-container a .primary {
+  font-size: 14px;
+  font-weight: bold;
+  display: block;
+}
