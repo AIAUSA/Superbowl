@@ -35,6 +35,7 @@ page_sections:
 - template: speakers
   block: speakers
   header: 1
+  title: 2019 Speakers
   bios:
   - template: speaker
     image: "/uploads/Calais Campbell.png"
@@ -77,6 +78,7 @@ page_sections:
   block: sponsors
 - template: tickets
   block: prices
+  content: "Tickets will go on sale September 1st, 2019"
 - template: gallery
   block: gallery
 - template: committee

@@ -74,7 +74,7 @@ h3 {
 /* DP - Logo */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 .sbblogo {
-  background-image: url("/assets/img/sbb2019.png");
+  /*background-image: url("/assets/img/sbb2019.png");*/
   background-repeat: no-repeat;
   height: 255px;
   width: 196px;

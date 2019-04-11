@@ -20,10 +20,14 @@
             <div class="tab-content">
                 <div id="horizontal_tab1" class="tab-pane fade active in">
                     <div class="row">
+                        {% if section.left_image != nil and section.left_image != '' %}
                         <div class="col-sm-5 img-column">
                             <img src="{{ section.left_image }}" alt="" class="img-responsive" />
                         </div>
                         <div class="col-sm-7 align-left">
+                        {% else %}
+                        <div class="col-sm-12 align-left">
+                        {% endif %}
                             {{ section.right_text | markdownify }}
                         </div>
                     </div>

@@ -8,3 +8,7 @@ fields:
   name: block
   hidden: true
   default: prices
+- type: text
+  label: Text Below Title 
+  name: content
+  default: "Get yours while they are still available.   <br /> Tables are sold on a first come, first served basis."
