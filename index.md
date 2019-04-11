@@ -5,7 +5,7 @@ permalink: index
 page_sections:
 - template: about
   block: about
-  left_image: "/uploads/sbb2019.png"
+  left_image: ''
   right_text: |-
     ###### Super Bowl Breakfast
 

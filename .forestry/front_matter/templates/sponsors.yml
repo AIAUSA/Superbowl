@@ -1,7 +1,6 @@
 ---
 label: Sponsors
 hide_body: true
-is_partial: true
 display_field: block
 fields:
 - type: text
