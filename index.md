@@ -78,7 +78,7 @@ page_sections:
   block: sponsors
 - template: tickets
   block: prices
-  content: "Tickets will go on sale September 1st, 2019"
+  content: Tickets will go on sale September 1st, 2019
 - template: gallery
   block: gallery
 - template: committee
@@ -101,6 +101,6 @@ page_sections:
     – 2003, 2-time Super Bowl Champion</p></li><li><p>Vivian A. Wong, Founder, Touchmark
     National Bank</p></li><li><p>Ambassador Andrew &amp; Carolyn Young</p></li><li><p>Bryant
     &amp; Kristin Young, Atlanta Falcons</p></li></ul><p>Check back for more updates
-    on the 2019 Super Bowl Breakfast Host Committee.</p>
+    on the 2020 Super Bowl Breakfast Host Committee.</p>
 
 ---
