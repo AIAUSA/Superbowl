@@ -2,7 +2,7 @@
 <section id="about" class="section align-center">
     <div class="container">
         <span class="icon section-icon icon-sport-09"></span>
-        <h3>Super Bowl Breakfast</h3>
+        <h3>{{ site.data.event.event_name }}</h3>
         <p class="text-alt">{{ site.data.event.dayofweek }}, <span class="highlight">{{ site.data.event.month }} {{ site.data.event.day }}, {{ site.data.event.year }}</span> {{ site.data.event.time }}</p>
         <br />
         <br />
@@ -10,7 +10,7 @@
         <div class="tabs-wrapper tabs-horizontal">
             <ul class="nav nav-tabs">
                 <li class="active"><a href="#horizontal_tab1" data-toggle="tab">
-                    <h6 class="heading-alt"><span class="icon icon-seo-icons-30"></span> Superbowl Breakfast</h6>
+                    <h6 class="heading-alt"><span class="icon icon-seo-icons-30"></span> {{ site.data.event.event_name }}</h6>
                 </a></li>
                 <li><a href="#horizontal_tab3" data-toggle="tab">
                     <h6 class="heading-alt"><span class="fa fa-trophy"></span> {{ winner[0].year }} Winner</h6>
