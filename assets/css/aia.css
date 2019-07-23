@@ -7,7 +7,7 @@
 .price { border: 2px solid #eaeaea; padding: 8px; text-align: center; }
 .price-top { background: #f9f9f9; margin-bottom: 2px; padding-top: 47px; padding-bottom: 42px; }
 .price-title { font-size: 20px; line-height: 24px; font-weight: 400; color: #222; letter-spacing: 2px; margin-bottom: 15px; }
-.price-category { display: inline-block; font-size: 12px; line-height: 15px; font-weight: 400; color: #fff; text-transform: uppercase; background: #fe4918; padding: 8px 9px; margin-bottom: 44px; }
+.price-category { display: inline-block; font-size: 12px; line-height: 15px; font-weight: 400; color: #fff; text-transform: uppercase; background: #008992; padding: 8px 9px; margin-bottom: 44px; }
 .price-per { font-size: 42px; line-height: 42px; font-weight: 800; color: #222; letter-spacing: 4px; margin-bottom: 9px; }
 .price-per sup { font-size: 20px; line-height: 20px; font-weight: 400; letter-spacing: 0px; }
 .price-per sub { font-size: 16px; line-height: 20px; font-weight: 300; letter-spacing: 0px; }
@@ -53,7 +53,7 @@
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 /*
 .pr-date {
-  width: 10%;float: right;background-color: #fe4918;text-align: center;
+  width: 10%;float: right;background-color: #008992;text-align: center;
 }
 .pr-date h5 {
   margin: 0px;
@@ -74,10 +74,10 @@ h3 {
 /* DP - Logo */
 /*-------------------------------------------------------------------------------------------------------------------------------*/
 .sbblogo {
-  /*background-image: url("/assets/img/sbb2019.png");*/
+  background-image: url("/assets/img/SBB2020-logo.png");
   background-repeat: no-repeat;
-  height: 255px;
-  width: 196px;
+  height: 200px;
+  width: 203px;
   position: absolute;
   left: 2%;
   top:0px;
@@ -113,7 +113,7 @@ h3 {
 }
 
 .aia-bg1 {
-  background-image: url("../img/backgrounds/starr1.jpg");
+  background-image: url("../img/backgrounds/tony-peyton.jpg");
 }
 
 .videowrapper {
