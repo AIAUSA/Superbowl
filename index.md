@@ -34,7 +34,7 @@ page_sections:
   block: countdown
 - template: speakers
   block: speakers
-  header: 1
+  header: true
   title: 2019 Speakers
   bios:
   - template: speaker
@@ -44,7 +44,7 @@ page_sections:
     credentials: Jacksonville Jaguars Defensive Captain
 - template: speakers
   block: speakers
-  header: 0
+  header: false
   bios:
   - template: speaker
     name: AKBAR GBAJABIAMILA
@@ -61,9 +61,10 @@ page_sections:
     title: Cincinnati Bengals, 1980 -1992
     credentials: Pro Football Hall of Fame
     image: "/uploads/speaker3.jpg"
+  title: ''
 - template: speakers
   block: speakers
-  header: 0
+  header: false
   bios:
   - template: speaker
     name: DAN REEVES
@@ -74,11 +75,14 @@ page_sections:
     name: Frank Reich
     title: Coach, Indianapolis Colts
     image: "/uploads/Frank-Reich.jpg"
+    credentials: ''
+  title: ''
 - template: sponsors
   block: sponsors
 - template: tickets
   block: prices
-  content: Tickets will go on sale September 1st, 2019
+  content: Tickets will go on sale September 1st, 2019. All tickets are non-refundable
+    and not tax-deductible.
 - template: gallery
   block: gallery
 - template: committee
