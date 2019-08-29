@@ -1,16 +1,16 @@
 ---
 - name: Priority
-  table-cost: 2500
-  seat-cost: 250
+  table-cost: "2500"
+  seat-cost: "250"
   table-desc: Best available seats nearest to Sponsor and VIP seating. Clear lines
     of site to the stage. Good for 10 people.
   seat-desc: Best available seats nearest to Sponsor and VIP seating. Clear lines
     of site to the stage. Ticket Good for 1 Person.
-  purchase-link: https://secure.ministrysync.com/ministrysync/event/?e=16408
-  sold-out: true
+  purchase-link: https://secure.ministrysync.com/ministrysync/event/?e=18718
+  sold-out: false
 - name: Corporate
-  table-cost: 2000
-  seat-cost: 200
+  table-cost: "2000"
+  seat-cost: "200"
   table-desc: Purchase of this table for $2000 includes tickets for 10 people. Set
     just behind Priority Seating. Good for 10 people.
   seat-desc: Set just behind Priority Seating. Good for 1 Person.
