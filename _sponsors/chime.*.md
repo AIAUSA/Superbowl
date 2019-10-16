@@ -1,8 +1,8 @@
 ---
-title: Chime
-date: 2018-10-22 20:43:50 +0000
+title: Coral Ridge Presbyterian Church
+date: '2018-10-22T20:43:50.000+00:00'
 link: ''
 type: Executive
-logo: "/uploads/ChimeSolutions_FINAL.png"
+logo: "/uploads/crpclogo-vertical 2[1] (1).jpg"
 
 ---
