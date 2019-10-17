@@ -51,26 +51,11 @@ page_sections:
     title: Super Bowl Champion Coach
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
     image: "/uploads/speaker2.jpg"
-  - template: speaker
-    name: ANTHONY MUNOZ
-    title: Cincinnati Bengals, 1980 -1992
-    credentials: Pro Football Hall of Fame
-    image: "/uploads/speaker3.jpg"
   title: ''
 - template: speakers
   block: speakers
   header: false
-  bios:
-  - template: speaker
-    name: DAN REEVES
-    title: NFL, 1965 - 2003
-    credentials: 2x Super Bowl Champion Coach (VI, XII)
-    image: "/uploads/speaker4.jpg"
-  - template: speaker
-    name: Frank Reich
-    title: Coach, Indianapolis Colts
-    image: "/uploads/Frank-Reich.jpg"
-    credentials: ''
+  bios: []
   title: ''
 - template: sponsors
   block: sponsors
