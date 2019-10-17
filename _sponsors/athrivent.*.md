@@ -1,8 +1,8 @@
 ---
-title: Thrivent
-date: 2018-10-10 21:07:31 +0000
+title: First Horizon Foundation
+date: '2018-10-10T21:07:31.000+00:00'
 link: ''
 type: Presenting
-logo: "/uploads/RonBlueTrust-Thrivent_Lockup.jpg"
+logo: "/uploads/FH_F_OneLine (1).jpg"
 
 ---
