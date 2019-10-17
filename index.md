@@ -69,5 +69,8 @@ page_sections:
   block: committee
   content: <h3>2020 Host Committee</h3><p class="text-alt">Check back for more updates
     on the 2020 Super Bowl Breakfast Host Committee.</p>
+- template: html-text
+  block: text
+  content: Check back for program updates.
 
 ---
