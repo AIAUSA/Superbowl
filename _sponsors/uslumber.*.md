@@ -1,8 +1,8 @@
 ---
-title: U.S. Lumber
-date: 2018-10-22 20:43:50 +0000
+title: Stacy Foundation
+date: '2018-10-22T20:43:50.000+00:00'
 link: ''
 type: Executive
-logo: "/uploads/US-Lumber-Red-Logo.png"
+logo: "/uploads/StacyFoundation_Logo (1).jpg"
 
 ---
