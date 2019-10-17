@@ -1,8 +1,8 @@
 ---
-title: Mashburn
-date: 2018-11-03 10:06:17 +0000
+title: Primerica
+date: '2018-11-03T10:06:17.000+00:00'
 link: ''
 type: Executive
-logo: "/uploads/Sponsor-logo-Mashburn.jpg"
+logo: "/uploads/PRI Colored Logo (1).jpg"
 
 ---
