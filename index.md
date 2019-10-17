@@ -36,12 +36,7 @@ page_sections:
   block: speakers
   header: true
   title: 2019 Speakers
-  bios:
-  - template: speaker
-    image: "/uploads/Calais Campbell.png"
-    name: Calais Campbell
-    title: 2019 Bart Starr Award Winner
-    credentials: Jacksonville Jaguars Defensive Captain
+  bios: []
 - template: speakers
   block: speakers
   header: false
