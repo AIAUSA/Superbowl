@@ -67,24 +67,7 @@ page_sections:
   block: gallery
 - template: committee
   block: committee
-  content: <h3>2019 Host Committee</h3><p class="text-alt">National Honorary Co-Chairmen:</p><ul><li><p>Joe
-    Gibbs, Pro Football Hall of Fame</p></li><li><p>Steve Largent, Pro Football Hall
-    of Fame</p></li><li><p>Anthony Muñoz, Pro Football Hall of Fame</p></li><li><p>Mike
-    Singletary, Pro Football Hall of Fame</p></li><li><p>Bart Starr, Pro Football
-    Hall of Fame</p></li></ul><p class="text-alt">Host Committee:</p><ul><li><p>Henry
-    &amp; Billye Aaron</p></li><li><p>Ed Bastian, CEO, Delta Air Lines</p></li><li><p>Paul
-    Bowers, President &amp; CEO, Georgia Power</p></li><li><p>Rodney Bullard, Executive
-    Director, Chick-fil-A Foundation</p></li><li><p>Coach Bill Curry</p></li><li><p>Billy
-    &amp; Allison Dukes</p></li><li><p>Warrick Dunn, NFL, 1997 – 2008</p></li><li><p>Donna
-    Hyland, President &amp; CEO, Children's Healthcare</p></li><li><p>Ernie &amp;
-    Cheryl Johnson</p></li><li><p>Rev. Dr. Bernice A. King, CEO, The King Center</p></li><li><p>Eloisa
-    Klementich, President and CEO of Invest Atlanta</p></li><li><p>Terry McGuirk,
-    Chairman, Atlanta Braves</p></li><li><p>Todd &amp; Susan Peterson</p></li><li><p>Dan
-    Quinn, Head Coach, Atlanta Falcons</p></li><li><p>Teresa Rasmussen, President
-    &amp; CEO, Thrivent</p></li><li><p>Dan Reeves, Head Coach, Atlanta Falcons 1997
-    – 2003, 2-time Super Bowl Champion</p></li><li><p>Vivian A. Wong, Founder, Touchmark
-    National Bank</p></li><li><p>Ambassador Andrew &amp; Carolyn Young</p></li><li><p>Bryant
-    &amp; Kristin Young, Atlanta Falcons</p></li></ul><p>Check back for more updates
+  content: <h3>2020 Host Committee</h3><p class="text-alt">Check back for more updates
     on the 2020 Super Bowl Breakfast Host Committee.</p>
 
 ---
