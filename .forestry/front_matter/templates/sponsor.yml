@@ -23,6 +23,7 @@ fields:
   name: logo
   label: Logo
 pages:
+- _sponsors/padrino-s.*.md
 - _sponsors/mashburn.*.md
 - _sponsors/relish.*.md
 - _sponsors/shelter-home-mortgage.*.md
