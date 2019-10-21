@@ -1,7 +1,7 @@
 ---
 title: Ram Foundation
 link: ''
-type: ''
+type: Executive
 logo: "/uploads/RAM FOUNDATION LOGO.jpg"
 published: false
 
