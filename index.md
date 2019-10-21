@@ -49,7 +49,7 @@ page_sections:
   title: 2020 Super Bowl Breakfast Program
 - template: html-text
   block: text
-  content: <div class="row align-center"><h3>Check Back for Program Updates</h3></div>
+  content: <div class="row align-center"><h5>Check Back for Program Updates</h5></div>
 - template: speakers
   block: speakers
   header: false
