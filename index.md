@@ -35,11 +35,6 @@ page_sections:
 - template: speakers
   block: speakers
   header: true
-  title: 2019 Speakers
-  bios: []
-- template: speakers
-  block: speakers
-  header: false
   bios:
   - template: speaker
     name: AKBAR GBAJABIAMILA
@@ -51,7 +46,10 @@ page_sections:
     title: Super Bowl Champion Coach
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
     image: "/uploads/speaker2.jpg"
-  title: ''
+  title: 2020 Super Bowl Breakfast Program
+- template: html-text
+  block: text
+  content: <div class="row align-center"><h3>Check Back for Program Updates</h3></div>
 - template: speakers
   block: speakers
   header: false

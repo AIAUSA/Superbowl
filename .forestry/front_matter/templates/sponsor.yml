@@ -24,7 +24,7 @@ fields:
   label: Logo
 pages:
 - _sponsors/padrino-s.*.md
+- _sponsors/super-service-challenge.*.md
+- _sponsors/shelter-home-mortgage.*.md
 - _sponsors/mashburn.*.md
 - _sponsors/relish.*.md
-- _sponsors/shelter-home-mortgage.*.md
-- _sponsors/super-service-challenge.*.md
