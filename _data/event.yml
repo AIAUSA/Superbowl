@@ -1,16 +1,16 @@
 ---
 media-contact: SBB@athletesinaction.org
 media-email: SBB@athletesinaction.org
-year: 2020
-location: Miami, FL
+year: "2020"
+location: 'Diplomat Beach Resort '
 full_date: Saturday, Feburary 1st, 2020
 short_date: 01.Feb
 dayofweek: Saturday
 month: Feburary
-day: 1
-address1: Venue to be Announced
+day: "1"
+address1: 3555 South Ocean Drive Hollywood, Florida 33019
 address2: ''
-sold_out: 0
+sold_out: "0"
 sold_out_message: Please check back next year!
 time: 8 AM
 event_name: Super Bowl Breakfast
