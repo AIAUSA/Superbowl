@@ -23,10 +23,10 @@ fields:
   name: logo
   label: Logo
 pages:
+- _sponsors/padrino-s.*.md
 - _sponsors/yonder-travel-insurance.*.md
 - _sponsors/miami-dolphins.*.md
 - _sponsors/ram-foundation.*.md
-- _sponsors/padrino-s.*.md
 - _sponsors/mashburn.*.md
 - _sponsors/relish.*.md
 - _sponsors/shelter-home-mortgage.*.md
