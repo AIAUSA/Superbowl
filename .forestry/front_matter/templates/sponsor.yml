@@ -23,6 +23,7 @@ fields:
   name: logo
   label: Logo
 pages:
+- _sponsors/ryan-inc-southern.*.md
 - _sponsors/kansas-city-chiefs.*.md
 - _sponsors/padrino-s.*.md
 - _sponsors/yonder-travel-insurance.*.md
