@@ -65,19 +65,20 @@ page_sections:
   block: gallery
 - template: committee
   block: committee
-  content: <h3>2020 Host Committee</h3><p class="text-alt"></p><p class="text-alt">Rodney
-    Barreto, Chairman, Miami Super Bowl LIV Host Committee</p><p>Dr. Brook Bello,
-    CEO/Executive Director, More Too Life</p><p>Glenn Blackwood, Miami Dolphins 1979
-    – 1987</p><p>Luis Chiappy, Executive Vice President, AXA Advisors</p><p>Tony Dungy,
-    Super Bowl Champion Coach</p><p>Josh Folds, Market President, First Horizon Bank</p><p>Andrea
-    Ivory, Founder, Women’s Breast Health Initiative (WBHI)</p><p>Willie Ivory, V.
-    President, Turnberry Construction</p><p>Larry Little, Miami Dolphins, 1969 – 1980</p><p>Nat
-    Moore, Senior Vice President, Special Projects, Miami Dolphins</p><p>John Offerdahl,
-    Miami Dolphins, 1986 - 1993</p><p>Mario &amp; Cookie Padrino, Padrino’s Restaurant</p><p>Mike
-    Pappas, Keyes Realty</p><p>Ruth Riley Hunter and Ben Hunter</p><p>Chris Torti,
-    Executive Director, Super Service Challenge</p><h3><br>Honorary Co-Chairmen</h3><p>Joe
-    Gibbs, NFL Hall of Fame</p><p>Steve Largent, NFL Hall of Fame</p><p>Anthony Munoz,
-    NFL Hall of Fame</p><p>Mike Singletary, NFL Hall of Fame</p><p>Bart Starr, NFL
-    Hall of Fame (1934 – 2019)</p>
+  content: <h3>Honorary Co-Chairmen</h3><p>Joe Gibbs, NFL Hall of Fame</p><p>Steve
+    Largent, NFL Hall of Fame</p><p>Anthony Munoz, NFL Hall of Fame</p><p>Mike Singletary,
+    NFL Hall of Fame</p><p>Bart Starr, NFL Hall of Fame (1934 – 2019)</p><p></p><h3>2020
+    Host Committee</h3><p class="text-alt"></p><p class="text-alt">Rodney Barreto,
+    Chairman, Miami Super Bowl LIV Host Committee</p><p>Dr. Brook Bello, CEO/Executive
+    Director, More Too Life</p><p>Glenn Blackwood, Miami Dolphins 1979 – 1987</p><p>Luis
+    Chiappy, Executive Vice President, AXA Advisors</p><p>Tony Dungy, Super Bowl Champion
+    Coach</p><p>Josh Folds, Market President, First Horizon Bank</p><p>Ruth Riley
+    Hunter &amp; Ben Hunter</p><p>Andrea Ivory, Founder, Women’s Breast Health Initiative
+    (WBHI)</p><p>Willie Ivory, V. President, Turnberry Construction</p><p>Larry Little,
+    Miami Dolphins, 1969 – 1980</p><p>Nat Moore, Senior Vice President, Special Projects,
+    Miami Dolphins</p><p>John Offerdahl, Miami Dolphins, 1986 - 1993</p><p>Mario &amp;
+    Cookie Padrino, Padrino’s Restaurant</p><p>Mike Pappas, Keyes Realty</p><p>Pat
+    &amp; Chris Reilly, Miami Heat</p><p>Don Shula, Pro Football Hall of Fame</p><p>Chris
+    Torti, Executive Director, Super Service Challenge</p>
 
 ---

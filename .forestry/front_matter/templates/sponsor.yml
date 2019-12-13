@@ -23,13 +23,13 @@ fields:
   name: logo
   label: Logo
 pages:
-- _sponsors/ryan-inc-southern.*.md
 - _sponsors/kansas-city-chiefs.*.md
-- _sponsors/padrino-s.*.md
-- _sponsors/yonder-travel-insurance.*.md
-- _sponsors/miami-dolphins.*.md
-- _sponsors/ram-foundation.*.md
 - _sponsors/mashburn.*.md
+- _sponsors/miami-dolphins.*.md
+- _sponsors/padrino-s.*.md
+- _sponsors/ram-foundation.*.md
 - _sponsors/relish.*.md
+- _sponsors/ryan-inc-southern.*.md
 - _sponsors/shelter-home-mortgage.*.md
 - _sponsors/super-service-challenge.*.md
+- _sponsors/yonder-travel-insurance.*.md
