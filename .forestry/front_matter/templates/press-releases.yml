@@ -1,6 +1,6 @@
 ---
 label: Press Releases
-hide_body: true
+hide_body: false
 display_field: block
 fields:
 - type: text
