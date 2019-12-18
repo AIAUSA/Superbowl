@@ -24,7 +24,7 @@ sections:
   label: Press Releases
   create: documents
   templates:
-  - press-releases
+  - press-release
 - type: directory
   path: _sponsors
   label: Sponsors
