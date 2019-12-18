@@ -25,6 +25,7 @@ fields:
   - about
   - gallery
   - speakers
+  - centered-text
   label: Page Sections
   name: page_sections
 pages:
