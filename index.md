@@ -49,7 +49,18 @@ page_sections:
   title: 2020 Super Bowl Breakfast Program
 - template: centered-text
   block: centered-text
-  content: <h5>Check Back for Program Updates</h5>
+  content: |-
+    ##### FEATURING:
+
+    Tony Dungy, Super Bowl Champion Coach, NFL Analyst, NBC Sports
+
+    Cherry Starr
+
+    Bart Starr, Jr.
+
+    Past winners of the Bart Starr Award
+
+    Packer greats who played with Bart.
 - template: speakers
   block: speakers
   header: false
