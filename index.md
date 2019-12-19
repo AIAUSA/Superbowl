@@ -58,6 +58,12 @@ page_sections:
 
     Bart Starr, Jr.
 
+    Anthony Muñoz, Pro Football Hall of Fame
+
+    Jerry Kramer, Green Bay Packers, 1958 - 1968
+
+    Derrick Brooks, Pro Football Hall of Fame
+
     Past winners of the Bart Starr Award
 
     Packer greats who played with Bart.
