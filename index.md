@@ -58,6 +58,8 @@ page_sections:
 
     Bart Starr, Jr.
 
+    Peyton Manning, NFL 1998-2015
+
     Anthony Muñoz, Pro Football Hall of Fame
 
     Jerry Kramer, Green Bay Packers, 1958 - 1968
