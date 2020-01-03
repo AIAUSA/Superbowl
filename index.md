@@ -37,6 +37,11 @@ page_sections:
   header: true
   bios:
   - template: speaker
+    name: Eli Manning
+    title: 2020 Bart Starr Award Recipient
+    image: "/uploads/Eli headshot.jpg"
+    credentials: ''
+  - template: speaker
     name: AKBAR GBAJABIAMILA
     title: NFL, 2003 - 2008
     credentials: Co-Host of American Ninja Warrior, Sports Analyst, NFL Network
