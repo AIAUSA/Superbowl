@@ -12,3 +12,5 @@ fields:
   label: Date
   config:
     required: true
+pages:
+- _posts/giants-eli-manning-selected-for-prestigious-character-award.md
