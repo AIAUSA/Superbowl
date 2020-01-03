@@ -44,7 +44,7 @@ page_sections:
   - template: speaker
     name: Eli Manning
     title: 2020 Bart Starr Award Recipient
-    image: "/uploads/Eli headshot.jpg"
+    image: "/uploads/Eli headshot 2.jpg"
     credentials: ''
   - template: speaker
     name: TONY DUNGY
