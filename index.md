@@ -37,11 +37,6 @@ page_sections:
   header: true
   bios:
   - template: speaker
-    name: Eli Manning
-    title: 2020 Bart Starr Award Recipient
-    image: "/uploads/Eli headshot.jpg"
-    credentials: ''
-  - template: speaker
     name: AKBAR GBAJABIAMILA
     title: NFL, 2003 - 2008
     credentials: Co-Host of American Ninja Warrior, Sports Analyst, NFL Network
@@ -51,6 +46,11 @@ page_sections:
     title: Super Bowl Champion Coach
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
     image: "/uploads/speaker2.jpg"
+  - template: speaker
+    name: Eli Manning
+    title: 2020 Bart Starr Award Recipient
+    image: "/uploads/Eli headshot.jpg"
+    credentials: ''
   title: 2020 Super Bowl Breakfast Program
 - template: centered-text
   block: centered-text
