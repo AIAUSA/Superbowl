@@ -1,5 +1,5 @@
 ---
-title: 'Giants Eli Manning selected for Prestigious Character Award  '
+title: 'Giants'' Eli Manning selected for Prestigious Character Award  '
 date: 2020-01-03 05:00:00 +0000
 
 ---
