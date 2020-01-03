@@ -43,9 +43,9 @@ page_sections:
     image: "/uploads/speaker1.jpg"
   - template: speaker
     name: Eli Manning
-    title: NFL player, 2004-Present
+    title: 2020 Bart Starr Award Winner
     image: "/uploads/Eli headshot 2.jpg"
-    credentials: 2020 Bart Starr Award Recipient
+    credentials: New York Giants, 2004-Present
   - template: speaker
     name: TONY DUNGY
     title: Super Bowl Champion Coach
