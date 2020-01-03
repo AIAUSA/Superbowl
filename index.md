@@ -42,15 +42,15 @@ page_sections:
     credentials: Co-Host of American Ninja Warrior, Sports Analyst, NFL Network
     image: "/uploads/speaker1.jpg"
   - template: speaker
-    name: TONY DUNGY
-    title: Super Bowl Champion Coach
-    credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
-    image: "/uploads/speaker2.jpg"
-  - template: speaker
     name: Eli Manning
     title: 2020 Bart Starr Award Recipient
     image: "/uploads/Eli headshot.jpg"
     credentials: ''
+  - template: speaker
+    name: TONY DUNGY
+    title: Super Bowl Champion Coach
+    credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
+    image: "/uploads/speaker2.jpg"
   title: 2020 Super Bowl Breakfast Program
 - template: centered-text
   block: centered-text
