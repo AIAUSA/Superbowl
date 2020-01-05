@@ -34,6 +34,16 @@ page_sections:
   block: countdown
 - template: speakers
   block: speakers
+  header: false
+  bios:
+  - template: speaker
+    name: Eli Manning
+    credentials: New York Giants, 2004-Present
+    title: 2020 Bart Starr Award Winner
+    image: "/uploads/Eli headshot 2-1.jpg"
+  title: ''
+- template: speakers
+  block: speakers
   header: true
   bios:
   - template: speaker
@@ -76,17 +86,17 @@ page_sections:
     Past winners of the Bart Starr Award
 
     Packer greats who played with Bart.
-- template: speakers
-  block: speakers
-  header: false
-  bios: []
-  title: ''
 - template: sponsors
   block: sponsors
 - template: tickets
   block: prices
   content: Tickets will go on sale September 1st, 2019. All tickets are non-refundable
     and not tax-deductible.
+- template: speakers
+  block: speakers
+  title: Speakers
+  header: false
+  bios: []
 - template: gallery
   block: gallery
 - template: committee
@@ -106,5 +116,6 @@ page_sections:
     Cookie Padrino, Padrino’s Restaurant</p><p>Mike Pappas, Keyes Realty</p><p>Pat
     &amp; Chris Riley, Miami Heat</p><p>Don Shula, Pro Football Hall of Fame</p><p>Chris
     Torti, Executive Director, Super Service Challenge</p>
+published: false
 
 ---
