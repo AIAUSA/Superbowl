@@ -40,7 +40,7 @@ page_sections:
     name: Eli Manning
     credentials: New York Giants, 2004-Present
     title: 2020 Bart Starr Award Winner
-    image: "/uploads/Eli headshot 2-1.jpg"
+    image: "/uploads/Eli headshot 2-2.jpg"
   title: ''
 - template: speakers
   block: speakers
@@ -52,10 +52,10 @@ page_sections:
     credentials: Co-Host of American Ninja Warrior, Sports Analyst, NFL Network
     image: "/uploads/speaker1.jpg"
   - template: speaker
-    name: Eli Manning
-    title: 2020 Bart Starr Award Winner
-    image: "/uploads/Eli headshot 2.jpg"
     credentials: New York Giants, 2004-Present
+    title: 2020 Bart Starr Award Winner
+    name: Eli Manning
+    image: "/uploads/Eli headshot 2-3.jpg"
   - template: speaker
     name: TONY DUNGY
     title: Super Bowl Champion Coach
