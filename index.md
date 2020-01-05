@@ -35,12 +35,7 @@ page_sections:
 - template: speakers
   block: speakers
   header: false
-  bios:
-  - template: speaker
-    name: Eli Manning
-    credentials: New York Giants, 2004-Present
-    title: 2020 Bart Starr Award Winner
-    image: "/uploads/Eli headshot 2-2.jpg"
+  bios: []
   title: ''
 - template: speakers
   block: speakers
