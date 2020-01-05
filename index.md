@@ -50,7 +50,7 @@ page_sections:
     credentials: New York Giants, 2004-Present
     title: 2020 Bart Starr Award Winner
     name: Eli Manning
-    image: "/uploads/Eli headshot 2-3.jpg"
+    image: "/uploads/eli1.jpg"
   - template: speaker
     name: TONY DUNGY
     title: Super Bowl Champion Coach
