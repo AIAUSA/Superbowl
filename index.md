@@ -76,6 +76,8 @@ page_sections:
 
     Derrick Brooks, Pro Football Hall of Fame
 
+    Benjamin Watson, NFL, 2004-present
+
     James Brown, Sportscaster, CBS Sports
 
     Past winners of the Bart Starr Award
