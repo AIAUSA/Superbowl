@@ -2,6 +2,6 @@
 title: Compassion
 link: ''
 type: Executive
-logo: "/uploads/compasssion-logo-tag-blue_1C.eps"
+logo: "/uploads/compasssion-logo-tag-blue_1C.png"
 
 ---
