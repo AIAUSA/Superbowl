@@ -9,11 +9,11 @@
         <br />
         <div class="row text-center" style="display:flex; justify-content:center;">
             {% for speak in section.bios %}
-            <div class="col-sm-3">
+            <div class="col-sm-3 col-xs-6">
                 <div class="speaker">
                     <div class="photo-wrapper rounded"><img src="{{speak.image}}" alt="{{speak.name}}" class="img-responsive"></div>
                     <h3 class="name">{{speak.name}}</h3>
-                    <p class="text-alt"><small>{{speak.title}}</small></p>
+                    <p class="bold"><small>{{speak.title}}</small></p>
                     <p class="about">{{ speak.credentials }} </p>
                 </div>
             </div>
