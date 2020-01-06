@@ -23,6 +23,7 @@ fields:
   name: logo
   label: Logo
 pages:
+- _sponsors/compassion.*.md
 - _sponsors/kansas-city-chiefs.*.md
 - _sponsors/mashburn.*.md
 - _sponsors/miami-dolphins.*.md
