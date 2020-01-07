@@ -112,6 +112,7 @@ page_sections:
     Miami Dolphins</p><p>John Offerdahl, Miami Dolphins, 1986 - 1993</p><p>Mario &amp;
     Cookie Padrino, Padrino’s Restaurant</p><p>Mike Pappas, Keyes Realty</p><p>Pat
     &amp; Chris Riley, Miami Heat</p><p>Don Shula, Pro Football Hall of Fame</p><p>Chris
-    Torti, Executive Director, Super Service Challenge</p>
+    Torti, Executive Director, Super Service Challenge</p><p>Scott &amp; Pamela Pyle,
+    Founder, Pyle Financial Services</p>
 
 ---
