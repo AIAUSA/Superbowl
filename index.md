@@ -70,7 +70,7 @@ page_sections:
 
     Jerry Kramer, Green Bay Packers, 1958 - 1968
 
-    Clark Hunt
+    Clark Hunt, Owner, Kansas City Chiefs
 
     James Brown, Sportscaster, CBS Sports
 
