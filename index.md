@@ -60,29 +60,31 @@ page_sections:
 - template: centered-text
   block: centered-text
   content: |-
-    ##### FEATURING:
-
-    Tony Dungy, Super Bowl Champion Coach, NFL Analyst, NBC Sports
+    ##### SPECIAL GUESTS:
 
     Cherry Starr
 
     Bart Starr, Jr.
 
+    Tony Dungy, Super Bowl Champion Coach, NFL Analyst, NBC Sports
+
+    Jerry Kramer, Green Bay Packers, 1958 - 1968
+
+    Clark Hunt
+
+    James Brown, Sportscaster, CBS Sports
+
+    ##### PAST BART STARR AWARD WINNERS:
+
+    Derrick Brooks, Pro Football Hall of Fame
+
+    Calais Campbell, NFL, 2008-present
+
     Peyton Manning, NFL 1998-2015
 
     Anthony Muñoz, Pro Football Hall of Fame
 
-    Jerry Kramer, Green Bay Packers, 1958 - 1968
-
-    Derrick Brooks, Pro Football Hall of Fame
-
     Benjamin Watson, NFL, 2004-present
-
-    James Brown, Sportscaster, CBS Sports
-
-    Past winners of the Bart Starr Award
-
-    Packer greats who played with Bart.
 - template: sponsors
   block: sponsors
 - template: tickets
