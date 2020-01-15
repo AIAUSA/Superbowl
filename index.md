@@ -83,8 +83,6 @@ page_sections:
     Peyton Manning, NFL 1998-2015
 
     Anthony Muñoz, Pro Football Hall of Fame
-
-    Benjamin Watson, NFL, 2004-present
 - template: sponsors
   block: sponsors
 - template: tickets
