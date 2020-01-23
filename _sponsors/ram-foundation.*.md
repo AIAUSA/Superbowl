@@ -1,8 +1,7 @@
 ---
 title: Ram Foundation
-link: ''
+link: https://www.handofffoundation.org
 type: Executive
 logo: "/uploads/RAM FOUNDATION LOGO.jpg"
-published: false
 
 ---

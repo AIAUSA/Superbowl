@@ -1,8 +1,7 @@
 ---
 title: Ryan Inc. Southern
-link: ''
+link: http://www.ryanfl.com
 type: Executive
 logo: "/uploads/Ryan Inc. Southern Logo.jpg"
-published: false
 
 ---
