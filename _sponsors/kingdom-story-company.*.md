@@ -1,6 +1,6 @@
 ---
 title: Kingdom Story Company
-link: ''
+link: https://www.kingdomstorycompany.com/
 type: Executive
 logo: "/uploads/ksc label.jpg"
 
