@@ -1,8 +1,7 @@
 ---
 title: Kansas City Chiefs
-link: ''
+link: https://www.chiefs.com
 type: Executive
 logo: "/uploads/chiefs mark 1.jpg"
-published: false
 
 ---

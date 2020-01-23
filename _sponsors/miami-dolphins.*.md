@@ -1,8 +1,7 @@
 ---
 title: Miami Dolphins
-link: ''
+link: https://www.miamidolphins.com
 type: Executive
 logo: "/uploads/dol mark 1 PMS.jpg"
-published: false
 
 ---
