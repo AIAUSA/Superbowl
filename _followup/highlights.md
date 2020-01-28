@@ -9,10 +9,6 @@ page_sections:
 - template: video
   block: video
   link: https://www.youtube.com/watch/P07iECwcRBI
-- template: cta
-  block: cta
-  link: mailto:sbb@athletesinaction.org
-  text: Tell Us About Your Experience
 - template: call-to-action-button
   block: cta
   link: mailto:sbb@athletesinaction.org
