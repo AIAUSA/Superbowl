@@ -34,11 +34,6 @@ page_sections:
   block: countdown
 - template: speakers
   block: speakers
-  header: false
-  bios: []
-  title: ''
-- template: speakers
-  block: speakers
   header: true
   bios:
   - template: speaker
@@ -74,6 +69,8 @@ page_sections:
 
     James Brown, Sportscaster, CBS Sports
 
+    Kirk Cousins, Minnesota Vikings Quarterback
+
     ##### PAST BART STARR AWARD WINNERS:
 
     Derrick Brooks, Pro Football Hall of Fame
@@ -89,11 +86,6 @@ page_sections:
   block: prices
   content: Tickets will go on sale September 1st, 2019. All tickets are non-refundable
     and not tax-deductible.
-- template: speakers
-  block: speakers
-  title: Speakers
-  header: false
-  bios: []
 - template: gallery
   block: gallery
 - template: committee
