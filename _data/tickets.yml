@@ -7,7 +7,7 @@
   seat-desc: Best available seats nearest to Sponsor and VIP seating. Clear lines
     of site to the stage. Ticket Good for 1 Person.
   purchase-link: https://secure.ministrysync.com/ministrysync/event/?e=18718
-  sold-out: false
+  sold-out: true
 - name: Corporate
   table-cost: "2500"
   seat-cost: "200"
