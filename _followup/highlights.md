@@ -8,7 +8,7 @@ page_sections:
     padding: 8px 20px;'><h3>Highlight Reel <br />2019 Super Bowl Breakfast</h3></div>"
 - template: video
   block: video
-  link: https://www.youtube.com/watch/P07iECwcRBI
+  link: https://www.youtube.com/watch?v=fHUXYCKAwgw
 - template: call-to-action-button
   block: cta
   link: mailto:sbb@athletesinaction.org
