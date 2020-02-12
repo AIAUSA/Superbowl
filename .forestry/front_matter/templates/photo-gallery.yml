@@ -9,4 +9,5 @@ fields:
   name: images
   label: images
 pages:
+- _gallery/2020 Pics.*.md
 - _gallery/bart-starr-picture-gallery.*.md
