@@ -4,8 +4,10 @@ title: Highlight Reel - 2020 Super Bowl Breakfast
 page_sections:
 - template: centered-text
   block: centered-text
-  content: "<div class='row align-center' style='display: flex; justify-content: center;
-    padding: 8px 20px;'><h3>Highlight Reel <br />2020 Super Bowl Breakfast</h3></div>"
+  content: |-
+    <div class='row align-center' style='display: flex; justify-content: center; padding: 8px 20px;'><h3>Highlight Reel <br />2020 Super Bowl Breakfast</h3></div>
+
+    The Super Bowl Breakfast is just a small taste of the work Athletes in Action does on a daily basis. At big events, in locker rooms, on service trips, and by mentoring college athletes, we are dedicated to changing the world through the platform of sport.By making a tax-deductible gift today, you join us in the mission of helping athletes all around the world grow physically, mentally and spiritually!
 - template: video
   block: video
   link: https://www.youtube.com/watch?v=fHUXYCKAwgw
