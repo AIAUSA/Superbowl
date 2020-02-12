@@ -1,6 +1,6 @@
 ---
 layout: followup
-title: Highlight Reel - 2019 Super Bowl Breakfast
+title: Highlight Reel - 2020 Super Bowl Breakfast
 page_sections:
 - template: centered-text
   block: centered-text
