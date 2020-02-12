@@ -11,7 +11,7 @@ page_sections:
   link: https://www.youtube.com/watch?v=fHUXYCKAwgw
 - template: call-to-action-button
   block: cta
-  link: mailto:sbb@athletesinaction.org
-  text: Tell Us About Your Experience
+  link: https://athletesinaction.org/give/priority?CampaignCode=C2SBB2&cid=em-cru-aia-fcp_3_dm826763-v-20200212&grmpid=&utm_medium=email&utm_source=%5BProof%203%5D%20AIA%20SBB%202020%20-%20Tony%20Dungy%20-%202nd%20Email%20(FCP_3_DM826763)&utm_campaign=FCP_3_DM826763&deliveryName=FCP_3_DM826763#.XkQXY1JKjBI
+  text: Donate
 
 ---
