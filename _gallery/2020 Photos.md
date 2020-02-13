@@ -1,5 +1,6 @@
 ---
-year: 2020 Photos
+title: 2020 Photos
+year: 2020
 images:
 - "/uploads/SuperBowl Breakfast February 01, 2020 1270 (1).jpg"
 - "/uploads/SuperBowl Breakfast February 01, 2020 1319-1.jpg"

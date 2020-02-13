@@ -6,7 +6,8 @@
 			<br/>
 
 			<div class="gallery masonry">
-				{% for post in site.gallery limit:1 %}
+				{% assign gallery = site.gallery | sort: 'year'  | reverse  %}
+				{% for post in gallery limit:1 %}
 				{% assign sorted = post.images | reverse %}
 				{% for image in sorted %}
 				<span class="masonry-item">
