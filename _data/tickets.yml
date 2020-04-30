@@ -9,10 +9,10 @@
   purchase-link: ''
   sold-out: true
 - name: Corporate
-  table-cost: "2500"
+  table-cost: "2000"
   seat-cost: "200"
-  table-desc: Purchase of this table for $2000 includes tickets for 12 people. Set
-    just behind Priority Seating. Good for 12 people.
+  table-desc: Purchase of this table for $2000 includes tickets for 10 people. Set
+    just behind Priority Seating. Good for 10 people.
   seat-desc: Set just behind Priority Seating. Good for 1 Person.
   purchase-link: https://secure.ministrysync.com/ministrysync/event/?e=18718
   sold-out: true
