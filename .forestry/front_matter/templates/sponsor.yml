@@ -23,11 +23,4 @@ fields:
   name: logo
   label: Logo
 pages:
-- _sponsors/compassion.*.md
-- _sponsors/kansas-city-chiefs.*.md
-- _sponsors/kingdom-story-company.*.md
-- _sponsors/miami-dolphins.*.md
-- _sponsors/national-association-of-parents.*.md
-- _sponsors/relish.*.md
-- _sponsors/shelter-home-mortgage.*.md
 - _sponsors/super-service-challenge.*.md
