@@ -54,7 +54,7 @@ page_sections:
   block: sponsors
 - template: tickets
   block: prices
-  content: Tickets will go on sale September 1st, 2020. All tickets are non-refundable
+  content: Tickets will go on sale September 1st, 2021. All tickets are non-refundable
     and not tax-deductible.
 - template: gallery
   block: gallery

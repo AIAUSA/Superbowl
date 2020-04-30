@@ -7,7 +7,7 @@
   seat-desc: Best available seats nearest to Sponsor and VIP seating. Clear lines
     of site to the stage. Ticket Good for 1 Person.
   purchase-link: ''
-  sold-out: true
+  sold-out: false
 - name: Corporate
   table-cost: "2000"
   seat-cost: "200"
@@ -15,4 +15,4 @@
     just behind Priority Seating. Good for 10 people.
   seat-desc: Set just behind Priority Seating. Good for 1 Person.
   purchase-link: ''
-  sold-out: true
+  sold-out: false
