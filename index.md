@@ -49,32 +49,7 @@ page_sections:
   title: 2021 Super Bowl Breakfast Program
 - template: centered-text
   block: centered-text
-  content: |-
-    ##### SPECIAL GUESTS:
-
-    Cherry Starr
-
-    Bart Starr, Jr.
-
-    Tony Dungy, Super Bowl Champion Coach, NFL Analyst, NBC Sports
-
-    Jerry Kramer, Green Bay Packers, 1958 - 1968
-
-    Clark Hunt, Owner, Kansas City Chiefs
-
-    James Brown, Sportscaster, CBS Sports
-
-    Kirk Cousins, Minnesota Vikings Quarterback
-
-    ##### PAST BART STARR AWARD WINNERS:
-
-    Derrick Brooks, Pro Football Hall of Fame
-
-    Calais Campbell, NFL, 2008-present
-
-    Peyton Manning, NFL 1998-2015
-
-    Anthony Muñoz, Pro Football Hall of Fame
+  content: ''
 - template: sponsors
   block: sponsors
 - template: tickets
