@@ -13,7 +13,7 @@ page_sections:
 
     \*Dress is business casual. Tickets are non-refundable and are not tax-deductible.
 
-    **You can watch the 2019 Super Bowl Breakfast program on our Facebook page** [https://www.facebook.com/SBowlBreakfast/](https://www.facebook.com/SBowlBreakfast/ "https://www.facebook.com/SBowlBreakfast/").
+    **You can watch the 2020 Super Bowl Breakfast program on our Facebook page** [https://www.facebook.com/SBowlBreakfast/](https://www.facebook.com/SBowlBreakfast/ "https://www.facebook.com/SBowlBreakfast/").
   left_text: |-
     ###### National Title Sponsor
 
