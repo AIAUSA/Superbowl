@@ -1,7 +1,7 @@
 ---
 title: Bruce Matthews
-date: 2000-09-27 19:50:44 +0000
-year: 2000
+date: '2000-09-27T19:50:44.000+00:00'
+year: "2001"
 feature_image: "/uploads/Bruce_Matthews.jpg"
 
 ---
