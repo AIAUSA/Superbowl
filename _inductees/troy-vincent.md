@@ -1,7 +1,7 @@
 ---
 title: Troy Vincent
-date: 2004-09-27 19:44:14 +0000
-year: 2004
+date: '2004-09-27T19:44:14.000+00:00'
+year: "2005"
 feature_image: "/uploads/troy_vincent.jpg"
 
 ---
