@@ -1,7 +1,7 @@
 ---
 title: Warrick Dunn
 date: '2008-09-27T19:38:54.000+00:00'
-year: "2009"
+year: 2009
 feature_image: "/uploads/warrick-dunn.jpg"
 
 ---

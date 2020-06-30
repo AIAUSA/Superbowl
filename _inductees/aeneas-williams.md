@@ -1,7 +1,7 @@
 ---
 title: Aeneas Williams
 date: '2001-09-27T19:49:28.000+00:00'
-year: "2000"
+year: 2000
 feature_image: ''
 
 ---

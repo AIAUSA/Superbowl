@@ -1,7 +1,7 @@
 ---
 title: Brent Jones
 date: '1999-09-27T19:52:07.000+00:00'
-year: "1998"
+year: 1998
 feature_image: "/uploads/brent_jones.jpg"
 
 ---

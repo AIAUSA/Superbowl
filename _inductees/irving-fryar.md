@@ -1,7 +1,7 @@
 ---
 title: Irving Fryar
 date: '1997-09-27T19:54:24.000+00:00'
-year: "1998"
+year: 1998
 feature_image: "/uploads/Irving_Fryar.jpg"
 
 ---

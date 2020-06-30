@@ -1,7 +1,7 @@
 ---
 title: Derrick Brooks
 date: '2005-09-27T19:43:29.000+00:00'
-year: "2004"
+year: 2004
 feature_image: "/uploads/brooks.jpg"
 
 ---

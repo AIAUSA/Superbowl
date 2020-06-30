@@ -1,7 +1,7 @@
 ---
 title: Darrell Green
 date: '1998-09-27T19:53:30.000+00:00'
-year: "1997"
+year: 1997
 feature_image: "/uploads/Darrell_Green.jpg"
 
 ---
