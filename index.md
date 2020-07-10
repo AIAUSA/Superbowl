@@ -56,7 +56,8 @@ page_sections:
   block: prices
   content: 'To purchase tables, please call 800-416-9472 to charge by phone OR send
     a check payable to Athletes in Action to: 2021 Super Bowl Breakfast. 4401 W. Kennedy
-    Blvd, 3rd floor Tampa, FL 33609'
+    Blvd, 3rd floor Tampa, FL 33609. Please note that tables are not tax-deductible
+    and cannot be paid for from an NCF fund.'
 - template: gallery
   block: gallery
 - template: committee
