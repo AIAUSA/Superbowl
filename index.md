@@ -54,8 +54,9 @@ page_sections:
   block: sponsors
 - template: tickets
   block: prices
-  content: Tickets will go on sale September 1st, 2020. All tickets are non-refundable
-    and not tax-deductible.
+  content: 'To purchase tables, please call 800-416-9472 to charge by phone OR send
+    a check payable to Athletes in Action to: 2021 Super Bowl Breakfast. 4401 W. Kennedy
+    Blvd, 3rd floor Tampa, FL 33609'
 - template: gallery
   block: gallery
 - template: committee
