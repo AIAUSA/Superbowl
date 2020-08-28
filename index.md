@@ -58,6 +58,14 @@ page_sections:
     and send a check payable to Athletes in Action to: 2021 Super Bowl Breakfast.
     4401 W. Kennedy Blvd, 3rd floor Tampa, FL 33609. Please note that tables are not
     tax-deductible and cannot be paid for from an NCF fund.'
+- template: tickets
+  block: prices
+  content: We apologize that we had to close table sales at this time due to the restriction
+    of being at half capacity because of COVID 19. We will open sales in the future
+    if we are able. If you would like to be put on the waitlist for a table, please
+    email us at sbb@athletesinaction.org.Sponsorships are still available for the
+    in person event, online special and broadcast opportunities. Email sbb@athletesinaction.org
+    for more information.
 - template: gallery
   block: gallery
 - template: committee
