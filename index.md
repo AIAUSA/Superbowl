@@ -61,7 +61,7 @@ page_sections:
 - template: tickets
   block: prices
   content: We apologize that we had to close table sales at this time due to the restriction
-    of being at half capacity because of COVID 19. We will open sales in the future
+    of being at 1/2 capacity because of COVID 19. We will open sales in the future
     if we are able. If you would like to be put on the waitlist for a table, please
     email us at sbb@athletesinaction.org.Sponsorships are still available for the
     in person event, online special and broadcast opportunities. Email sbb@athletesinaction.org
