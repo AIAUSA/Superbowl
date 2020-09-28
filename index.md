@@ -50,7 +50,7 @@ page_sections:
     name: BENJAMIN WATSON
     title: NFL, 2004-2019
     credentials: ''
-    image: ''
+    image: "/uploads/super-bowl-breakfast-lii-283.jpg"
   title: 2021 Super Bowl Breakfast Program
 - template: centered-text
   block: centered-text
