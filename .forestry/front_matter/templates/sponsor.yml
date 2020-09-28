@@ -23,4 +23,5 @@ fields:
   name: logo
   label: Logo
 pages:
+- _sponsors/first-horizon-bank.*.md
 - _sponsors/super-service-challenge.*.md
