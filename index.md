@@ -51,6 +51,11 @@ page_sections:
     title: NFL, 2004-2019
     image: "/uploads/benjamin-watson-head-shot.webp"
     credentials: ''
+  - template: speaker
+    name: FRANK REICH
+    title: Head Coach, Indianapolis Colts
+    image: "/uploads/frank-reich-headshot.jpg"
+    credentials: ''
   title: 2021 Super Bowl Breakfast Program
 - template: centered-text
   block: centered-text
