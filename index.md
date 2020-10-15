@@ -51,6 +51,16 @@ page_sections:
     image: "/uploads/benjamin-watson.jpg"
     title: ''
     credentials: ''
+  - template: speaker
+    name: JAMES BROWN
+    image: "/uploads/james-brown.jpg"
+    title: ''
+    credentials: ''
+  - template: speaker
+    name: FRANK REICH
+    title: ''
+    credentials: ''
+    image: ''
   title: 2021 Super Bowl Breakfast Program
 - template: centered-text
   block: centered-text
