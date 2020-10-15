@@ -46,6 +46,11 @@ page_sections:
     title: Super Bowl Champion Coach
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
     image: "/uploads/speaker2.jpg"
+  - template: speaker
+    name: BENJAMIN WATSON
+    image: "/uploads/benjamin-watson.jpg"
+    title: ''
+    credentials: ''
   title: 2021 Super Bowl Breakfast Program
 - template: centered-text
   block: centered-text
