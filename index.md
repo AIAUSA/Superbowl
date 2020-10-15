@@ -60,7 +60,7 @@ page_sections:
     name: FRANK REICH
     title: ''
     credentials: ''
-    image: ''
+    image: "/uploads/frank-reich.jpg"
   title: 2021 Super Bowl Breakfast Program
 - template: centered-text
   block: centered-text
