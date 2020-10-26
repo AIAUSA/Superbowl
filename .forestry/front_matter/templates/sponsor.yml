@@ -24,6 +24,7 @@ fields:
   label: Logo
 pages:
 - _sponsors/first-horizon-bank.*.md
+- _sponsors/greystar.*.md
 - _sponsors/harborlight-holdings.*.md
 - _sponsors/jaguars.*.md
 - _sponsors/skyway.*.md
