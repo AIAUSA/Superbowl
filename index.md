@@ -49,7 +49,7 @@ page_sections:
   - template: speaker
     name: BENJAMIN WATSON
     image: "/uploads/benjamin-watson.jpg"
-    title: NFL 2004 -2019
+    title: NFL, 2004 -2019
     credentials: ''
   - template: speaker
     name: JAMES BROWN
