@@ -2,6 +2,6 @@
 title: First Horizon Bank
 link: ''
 type: Executive
-logo: "/uploads/fh_f_oneline-1-1.jpg"
+logo: "/uploads/merger-logo_stacked_03.png"
 
 ---
