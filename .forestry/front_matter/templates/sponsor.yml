@@ -24,6 +24,7 @@ fields:
   label: Logo
 pages:
 - _sponsors/alltrust-insurance.*.md
+- _sponsors/christian-tyler-properties-llc.*.md
 - _sponsors/first-horizon-bank.*.md
 - _sponsors/greystar.*.md
 - _sponsors/harborlight-holdings.*.md
