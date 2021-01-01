@@ -21,6 +21,15 @@
 				{% endfor %}
 			</div>
 			{% endif %}
+			{% assign hsponsors = site.sponsors | where: "type", "Host" | sort: "date" | reverse %}
+			{% if hsponsors.size > 0 %}
+			<h4>Host Sponsors</h4>
+			<div class="sponsors">
+				{% for s in hsponsors %}
+				<div class="sponsor small"><a href="{{s.link}}"><img src="{{ s.logo }}" alt=""></a></div>
+				{% endfor %}
+			</div>
+			{% endif %}
 			{% assign csponsors = site.sponsors | where: "type", "Corporate" | sort: "date" | reverse %}
 			{% if csponsors.size > 0 %}
 			<h4>Corporate Sponsors</h4>

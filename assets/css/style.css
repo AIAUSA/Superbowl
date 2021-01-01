@@ -5806,6 +5806,8 @@ button[type="submit"] .loading {
 .sponsors {
   font-size: 0;
   line-height: 0;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 .sponsor {
   margin: 15px;
