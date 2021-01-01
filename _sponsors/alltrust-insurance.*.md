@@ -1,7 +1,7 @@
 ---
 title: Alltrust Insurance
 link: ''
-type: Executive
+type: 
 logo: "/uploads/alltrustlogo-4c.jpg"
 
 ---
