@@ -16,7 +16,7 @@
     <div class="container">
         <span class="icon section-icon icon-sport-09"></span>
         <h3>{{ site.data.event.event_name }}</h3>
-        <p class="text-alt">{{ site.data.event.dayofweek }}, {{ site.data.event.time }}</p>
+        <p class="text-alt">Check back for link to watch online special.</p>
         {% if site.data.event.location %}
         <p class="text-alt">
                 {% if site.data.event.hotel-link != nil %}
@@ -30,7 +30,6 @@
         <p class="text-alt">{{ site.data.event.address }} <br /> {{ site.data.event.city-state }}</p>
         {% endif %}
 
-        <p class="text-center">The PDF embeded below is scrollable.</p>
         <embed id="sbb-deck" src="/assets/deck/sbb-2021-deck.pdf#view=FitH" width="100%" height="600px" />
         <br>
         <br>
