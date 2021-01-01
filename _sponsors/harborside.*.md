@@ -1,7 +1,7 @@
 ---
 title: 'Harborside '
 link: ''
-type: Corporate
+type: Host
 logo: "/uploads/hm-bracelet-1.jpg"
 
 ---
