@@ -2568,7 +2568,10 @@ li {
   min-height: 100%;
 }
 .heading-block {
-  padding: 150px 0;
+  padding: 75px 0;
+}
+.heading-block img {
+  max-height: 300px;
 }
 .hero-heading-top,
 .hero-heading-bottom {
@@ -3143,7 +3146,7 @@ li {
 .btn.btn-lg {
   min-width: 200px;
   padding: 26px 40px 23px;
-  font-size: 15px;
+  font-size: 20px;
   letter-spacing: 0.4em;
 }
 .btn.btn-sm {
@@ -7212,5 +7215,9 @@ button[type="submit"] .loading {
   .signup-section .form .form-group {
     margin-bottom: 0;
     width: 100%;
+  }
+  .btn.btn-lg {
+    font-size: 15px;
+    padding: 26px 11px 23px;
   }
 }
