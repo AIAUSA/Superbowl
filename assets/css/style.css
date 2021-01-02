@@ -7223,3 +7223,17 @@ button[type="submit"] .loading {
     padding: 26px 11px 23px;
   }
 }
+
+#sbb-deck-mobile {
+  display: none;
+}
+
+@media (max-width: 480px) {
+  #sbb-deck-normal {
+    display: none;
+  }
+  #sbb-deck-mobile {
+    display: block;
+  }
+}
+

@@ -30,7 +30,12 @@
         <p class="text-alt">{{ site.data.event.address }} <br /> {{ site.data.event.city-state }}</p>
         {% endif %}
 
-        <embed id="sbb-deck" src="/assets/deck/sbb-2021-deck.pdf#view=FitH" width="100%" height="600px" />
+        <div id="sbb-deck-normal">
+            <iframe src="https://superbowlbreakfast.com/assets/deck/sbb-2021-deck.pdf" width="100%" height="600px"></iframe>
+        </div>
+        <div id="sbb-deck-mobile">
+            <a class="btn btn-lg" href="https://superbowlbreakfast.com/assets/deck/sbb-2021-deck.pdf">Click here for<br>event details</a>
+        </div>
         <br>
         <br>
 
