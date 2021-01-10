@@ -7228,19 +7228,20 @@ button[type="submit"] .loading {
     padding: 26px 11px 23px;
   }
 }
-
 #sbb-deck-mobile {
   display: none;
 }
-
 #mobile-header-h1 {
   display: none;
 }
-
 #desktop-header-h1 h1 a {
   font-size: 24px;
 }
-
+.bart-star-award-current-winner h2 {
+  font-weight: 400;
+  font-size: 30px;
+  margin-bottom: 2rem;
+}
 @media (max-width: 480px) {
   #sbb-deck-normal, #desktop-header-h1 {
     display: none;
