@@ -21,12 +21,12 @@
 				{% endfor %}
 			</div>
 			{% endif %}
-			{% assign hsponsors = site.sponsors | where: "type", "Host" | sort: "date" | reverse %}
+			{% assign hsponsors = site.sponsors | where: "type", "Host" | sort: "date" %}
 			{% if hsponsors.size > 0 %}
-			<h4>Host Sponsor</h4>
+			<h4>Host Sponsors</h4>
 			<div class="sponsors">
 				{% for s in hsponsors %}
-				<div class="sponsor small"><a href="{{s.link}}"><img src="{{ s.logo }}" alt=""></a></div>
+				<div class="sponsor small host"><a href="{{s.link}}"><img src="{{ s.logo }}" alt=""></a></div>
 				{% endfor %}
 			</div>
 			{% endif %}
