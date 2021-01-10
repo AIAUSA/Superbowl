@@ -5813,6 +5813,10 @@ button[type="submit"] .loading {
   margin: 15px;
   display: inline-block;
 }
+.sponsor.small.host {
+  display: block;
+  margin: 30px auto;
+}
 .sponsor:not(.inline) {
   position: relative;
   vertical-align: top;

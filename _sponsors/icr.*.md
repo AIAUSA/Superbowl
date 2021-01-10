@@ -2,6 +2,6 @@
 title: ICR
 link: ''
 type: Executive
-logo: "/uploads/icr-superbowl.jpg"
+logo: "/uploads/icr-logo.jpg"
 
 ---
