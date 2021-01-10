@@ -3132,9 +3132,9 @@ li {
 .btn:hover,
 .btn:focus,
 .btn.hovered {
-  -webkit-box-shadow: inset 0 65px 0 rgba(255, 255, 255, 0.26);
-  -moz-box-shadow: inset 0 65px 0 rgba(255, 255, 255, 0.26);
-  box-shadow: inset 0 65px 0 rgba(255, 255, 255, 0.26);
+  -webkit-box-shadow: inset 0 200px 0 rgba(255, 255, 255, 0.26);
+  -moz-box-shadow: inset 0 200px 0 rgba(255, 255, 255, 0.26);
+  box-shadow: inset 0 200px 0 rgba(255, 255, 255, 0.26);
   color: #ffffff;
 }
 .btn:active,
@@ -7228,12 +7228,22 @@ button[type="submit"] .loading {
   display: none;
 }
 
+#mobile-header-h1 {
+  display: none;
+}
+
+#desktop-header-h1 h1 a {
+  font-size: 24px;
+}
+
 @media (max-width: 480px) {
-  #sbb-deck-normal {
+  #sbb-deck-normal, #desktop-header-h1 {
     display: none;
   }
-  #sbb-deck-mobile {
+  #sbb-deck-mobile, #mobile-header-h1 {
     display: block;
+    font-size: 20px;
   }
+
 }
 
