@@ -6950,6 +6950,7 @@ button[type="submit"] .loading {
 }
 .bg5 {
   background-image: url("../img/backgrounds/sbb2.jpg");  /* ----- counter image -----*/
+  min-height: 200px;
 }
 .gradient-overlay:before {
   background: #9001a5;
