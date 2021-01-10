@@ -44,21 +44,38 @@ page_sections:
     title: Super Bowl Champion Coach
     credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
     image: "/uploads/speaker2.jpg"
+  bios1:
   - template: speaker
     name: BENJAMIN WATSON
     image: "/uploads/benjamin-watson.jpg"
     title: NFL, 2004 -2019
-    credentials: ''
+    credentials: ' '
   - template: speaker
     name: JAMES BROWN
     image: "/uploads/james-brown.jpg"
     title: CBS Sportscaster
-    credentials: ''
+    credentials: ' '
   - template: speaker
     name: FRANK REICH
     title: Head Coach, Indianapolis Colts
-    credentials: ''
+    credentials: ' '
     image: "/uploads/frank-reich.jpg"
+  bios2:
+  - template: speaker
+    name: ANTHONY MUNOZ
+    title:
+    credentials: 
+    image: "/uploads/amunoz.jpg"
+  - template: speaker
+    name: CHAD HENNINGS
+    title:
+    credentials:
+    image: "/uploads/chennings.jpg"
+  - template: speaker
+    name: ROCKY BLEIER
+    title:
+    credentials:
+    image: "/uploads/rbleier.jpg"
   title: 2021 Super Bowl Breakfast Program
 - template: centered-text
   block: centered-text

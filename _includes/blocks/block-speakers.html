@@ -7,9 +7,9 @@
         {% endif %}
         <br />
         <br />
-        <div class="row text-center" style="display:flex; justify-content:center;">
+        <div class="row text-center">
             {% for speak in section.bios %}
-            <div class="col-sm-3 col-xs-6">
+            <div class="col-xs-12 col-sm-6">
                 <div class="speaker">
                     <div class="photo-wrapper rounded"><img src="{{speak.image}}" alt="{{speak.name}}" class="img-responsive"></div>
                     <h3 class="name">{{speak.name}}</h3>
@@ -19,4 +19,33 @@
             </div>
             {% endfor %}
         </div>
+        <br />
+        <br />
+        <div class="row text-center">
+            {% for speak in section.bios1 %}
+            <div class="col-xs-12 col-md-4">
+                <div class="speaker">
+                    <div class="photo-wrapper rounded"><img src="{{speak.image}}" alt="{{speak.name}}" class="img-responsive"></div>
+                    <h3 class="name">{{speak.name}}</h3>
+                    <p class="bold"><small>{{speak.title}}</small></p>
+                    <p class="about">{{ speak.credentials }} </p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <br />
+        <br />
+        <div class="row text-center">
+            {% for speak in section.bios2 %}
+            <div class="col-xs-12 col-md-4">
+                <div class="speaker">
+                    <div class="photo-wrapper rounded"><img src="{{speak.image}}" alt="{{speak.name}}" class="img-responsive"></div>
+                    <h3 class="name">{{speak.name}}</h3>
+                    <p class="bold"><small>{{speak.title}}</small></p>
+                    <p class="about">{{ speak.credentials }} </p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
 </section>
