@@ -16,7 +16,14 @@
     <div class="container">
         <span class="icon section-icon icon-sport-09"></span>
         <h3>{{ site.data.event.event_name }}</h3>
-        <p class="text-alt">Check back for link to watch online special.</p>
+        <div class="row">
+            <div class="col-sm-3 col-sm-offset-3">
+                <a href="https://www.facebook.com/athletesinaction" class="btn btn-md" target="_blank">View on Facebook</a>
+            </div>
+            <div class="col-sm-3 mobile-margin-top">
+                <a href="https://www.youtube.com/user/AIAUSA" class="btn btn-md" target="_blank">View on YouTube</a>
+            </div>
+        </div>
         {% if site.data.event.location %}
         <p class="text-alt">
                 {% if site.data.event.hotel-link != nil %}

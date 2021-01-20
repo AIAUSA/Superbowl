@@ -5883,7 +5883,7 @@ button[type="submit"] .loading {
 }
 @media (max-width: 480px) {
   .sponsor:not(.inline):not(.big) {
-    margin: 5px;
+    margin: 5px auto;
     width: 80px;
     height: 80px;
   }
@@ -7250,6 +7250,8 @@ button[type="submit"] .loading {
     display: block;
     font-size: 20px;
   }
-
+  .mobile-margin-top {
+    margin-top: 1em;
+  }
 }
 
