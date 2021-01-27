@@ -7131,6 +7131,9 @@ button[type="submit"] .loading {
 .modal-box.paypal-modal .pseudo-select {
   margin-bottom: 10px;
 }
+.pb65 {
+  padding-bottom: 65px;
+}
 @media (min-width: 1200px) {
   .venue-section .left-col {
     width: 27%;
