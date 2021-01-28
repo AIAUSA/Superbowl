@@ -1,6 +1,6 @@
 ---
 title: Johnson Pope
-link: ''
+link: 'https://www.harborsidemusic.com'
 type: Executive
 logo: "/uploads/image001.jpg"
 
