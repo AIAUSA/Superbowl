@@ -1,6 +1,6 @@
 ---
 title: Jaguars
-link: 'https://www.harborsidemusic.com'
+link: 'https://www.jaguars.com/'
 type: Executive
 logo: "/uploads/jaguars-logo.jpg"
 
