@@ -1,7 +1,7 @@
 ---
 title: Martha Korman Zumwalt
 link: ''
-type: Executive
+type: 
 logo: "/uploads/oclogo.jpg"
 
 ---
