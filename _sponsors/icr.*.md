@@ -1,6 +1,6 @@
 ---
 title: ICR
-link: ''
+link: 'https://christianresponse.org/'
 type: Executive
 logo: "/uploads/icr-logo.jpg"
 
