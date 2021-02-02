@@ -1,6 +1,6 @@
 ---
 layout: blocks
-permalink: /learn-more
+permalink: /learnmore
 title: Learn More
 page_sections:
 - block: text-with-right-image-split-50
