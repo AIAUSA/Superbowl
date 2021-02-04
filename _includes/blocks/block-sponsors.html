@@ -39,7 +39,7 @@
 				{% endfor %}
 			</div>
 			{% endif %}
-			{% assign esponsors = site.sponsors | where: "type", "Executive" | sort: "date" | reverse %}
+			{% assign esponsors = site.sponsors | where: "type", "Executive" | sort: "title" %}
 			{% if esponsors.size > 0 %}
 			<h5>Executive Sponsors</h5>
 			<div class="sponsors">
