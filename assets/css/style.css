@@ -7134,14 +7134,14 @@ button[type="submit"] .loading {
 .pb65 {
   padding-bottom: 65px;
 }
-#learn-more h2 {
+#learn-more h2, #bonus-segments h2 {
   margin-top: 3rem;
 }
-#learn-more img.sbb-logo-bottom {
+#learn-more img.sbb-logo-bottom, #bonus-segments img.sbb-logo-bottom {
   width: 300px;
   margin-bottom: 3rem;
 }
-.learn-more-items .col-md-6 {
+.learn-more-items .col-md-6, .bonus-segment-items .col-md-6 {
   margin-bottom: 3rem;
 }
 .learn-more-items img.lm-btn {
