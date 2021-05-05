@@ -20,9 +20,6 @@ page_sections:
   block: speakers
   header: true
   title: 2022 Super Bowl Breakfast Program
-- template: centered-text
-  block: centered-text
-  content: ''
 - template: sponsors
   block: sponsors
 - template: gallery
