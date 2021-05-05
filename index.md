@@ -16,8 +16,6 @@ page_sections:
   content: <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
     class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/Em61LO9teOI"
     frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
-- template: countdown
-  block: countdown
 - template: speakers
   block: speakers
   header: true
@@ -34,5 +32,4 @@ page_sections:
   content: "<h3>Honorary Co-Chairmen</h3><p>Joe Gibbs, NFL Hall of Fame</p><p>Steve
     Largent, NFL Hall of Fame</p><p>Anthony Munoz, NFL Hall of Fame</p><p>Mike Singletary,
     NFL Hall of Fame</p><p>Bart Starr, NFL Hall of Fame (1934 – 2019)</p>"
-
 ---
