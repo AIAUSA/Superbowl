@@ -78,9 +78,7 @@ h3 {
   background-repeat: no-repeat;
   height: 200px;
   width: 203px;
-  position: absolute;
-  left: 2%;
-  top:0px;
+  margin: 0 auto;
   z-index: 100001;
 }
 .sblogo {
@@ -89,13 +87,15 @@ h3 {
 
 .press-release {
   width: 70%;
+  padding-bottom: 65px;
 }
 
 .header.fixed .header-wrapper { position: static !important; }
 
 @media (max-width: 767px) { 
   .sbblogo {
-    background-size: 40%;
+    /*background-size: 40%;*/
+    margin-top: 20px;
   }
 
   .press-release {
@@ -158,4 +158,8 @@ h3 {
   font-size: 14px;
   font-weight: bold;
   display: block;
+}
+
+#watch-presentation {
+  margin: 7em 0 10em;
 }

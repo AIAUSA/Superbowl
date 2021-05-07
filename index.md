@@ -11,75 +11,15 @@ page_sections:
 
     The NFL-sanctioned Athletes in Action Super Bowl Breakfast has taken place in the Super Bowl host city every year since 1988, drawing sellout crowds to hear from some of sport’s biggest names. The Bart Starr Award, presented at the breakfast, honors Starr’s lifelong commitment to serving as a positive role model to his family, teammates and community. The winner of the Bart Starr Award is determined by NFL-player balloting at the end of the regular season, making it one of only two individual honors selected by the players themselves.
 
-    **You can watch the 2020 Super Bowl Breakfast program on our Facebook page** [https://www.facebook.com/SBowlBreakfast/](https://www.facebook.com/SBowlBreakfast/ "https://www.facebook.com/SBowlBreakfast/").
-  left_text: |-
-    ###### National Title Sponsor
-
-    Founded in 2011, the Super Service Challenge is a nationwide movement to transform organizations through service. Driven by the idea people and teams grow stronger when they join together to serve, the Challenge encourages volunteerism, sharing stories of service and awarding funds to nonprofits.
-
-    The impact of the Super Service Challenge grows each year. To date, more than 100,000 people have served nearly 3,000 charities nationwide through the Challenge, and winning nonprofits have received more $30 million in awards. Online, the Challenge has shared more than 20,000 stories of service, counted more than 2.5 million votes, and made over 300 million media impressions.
-
-    Whether you are part of a business, family, team of friends, or ministry, the Super Service Challenge provides a way to facilitate teamwork and engagement that benefits individuals, teams and communities
-
-    Please visit [www.superservicechallenge.com](https://www.superservicechallenge.com/) for more information.
-  right_image: "/uploads/sponsorlogo.png"
 - template: html-text
   block: text
   content: <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
     class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/Em61LO9teOI"
     frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
-- template: countdown
-  block: countdown
 - template: speakers
   block: speakers
   header: true
-  bios:
-  - template: speaker
-    name: AKBAR GBAJABIAMILA
-    title: NFL, 2003 - 2008
-    credentials: Co-Host of American Ninja Warrior, Sports Analyst, NFL Network
-    image: "/uploads/speaker1.jpg"
-  - template: speaker
-    name: TONY DUNGY
-    title: Super Bowl Champion Coach
-    credentials: Studio Analyst, "Football Night in America" & "Thursday Night Football"
-    image: "/uploads/speaker2.jpg"
-  bios1:
-  - template: speaker
-    name: BENJAMIN WATSON
-    image: "/uploads/benjamin-watson.jpg"
-    title: NFL, 2004 -2019
-    credentials: ' '
-  - template: speaker
-    name: JAMES BROWN
-    image: "/uploads/james-brown.jpg"
-    title: CBS Sportscaster
-    credentials: ' '
-  - template: speaker
-    name: FRANK REICH
-    title: Head Coach, Indianapolis Colts
-    credentials: ' '
-    image: "/uploads/frank-reich.jpg"
-  bios2:
-  - template: speaker
-    name: ANTHONY MUNOZ
-    title:
-    credentials: 
-    image: "/uploads/amunoz.jpg"
-  - template: speaker
-    name: CHAD HENNINGS
-    title:
-    credentials:
-    image: "/uploads/chennings.jpg"
-  - template: speaker
-    name: ROCKY BLEIER
-    title:
-    credentials:
-    image: "/uploads/rbleier.jpg"
-  title: 2021 Super Bowl Breakfast Program
-- template: centered-text
-  block: centered-text
-  content: ''
+  title: 2022 Super Bowl Breakfast Program
 - template: sponsors
   block: sponsors
 - template: gallery
@@ -89,5 +29,4 @@ page_sections:
   content: "<h3>Honorary Co-Chairmen</h3><p>Joe Gibbs, NFL Hall of Fame</p><p>Steve
     Largent, NFL Hall of Fame</p><p>Anthony Munoz, NFL Hall of Fame</p><p>Mike Singletary,
     NFL Hall of Fame</p><p>Bart Starr, NFL Hall of Fame (1934 – 2019)</p>"
-
 ---

@@ -46,7 +46,7 @@ Ventcamp = {
         $('body').append(template);
     },
 
-    // check if site is laoded from mobile device
+    // check if site is loaded from mobile device
     checkMobile: function () {
         mobileDeviceOld = this.mobileDevice
 
@@ -196,7 +196,7 @@ Ventcamp = {
                     $parent = $el.parent(),
                     elHeight = $el.outerHeight(),
                     parentHeight = $parent.outerHeight(),
-                    padding = (parentHeight - elHeight) / 2;
+                    padding = (parentHeight - elHeight) / 4 - 200;
 
                 if ( padding >= 0 ) {
                     $parent.css({'padding-top': padding, 'padding-bottom': 0 });

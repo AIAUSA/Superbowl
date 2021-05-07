@@ -1,53 +1,6 @@
 <section id="sponsors" class="section align-center">
-		<div class="container">
-			{% if site.sponsors.size > 0 %}
-			<span class="icon section-icon icon-documents-bookmarks-12"></span>
-			
-			{% assign ntsponsors = site.sponsors | where: "type", "National Title" | sort: "date" | reverse %}
-			{% if ntsponsors.size > 0 %}
-			<h3>National Title Sponsor</h3>
-			<div class="sponsors">
-				{% for s in ntsponsors %}
-					<div class="sponsor big"><a href="{{s.link}}"><img src="{{ s.logo }}" alt=""></a></div>
-				{% endfor %}
-			</div>
-			{% endif %}
-			{% assign psponsors = site.sponsors | where: "type", "Presenting" | sort: "date" | reverse %}
-			{% if psponsors.size > 0 %}
-			<h4>Presenting Sponsors</h4>
-			<div class="sponsors">
-				{% for s in psponsors %}
-					<div class="sponsor medium"><a href="{{s.link}}"><img src="{{ s.logo }}" alt=""></a></div>
-				{% endfor %}
-			</div>
-			{% endif %}
-			{% assign hsponsors = site.sponsors | where: "type", "Host" | sort: "date" %}
-			{% if hsponsors.size > 0 %}
-			<h4>Host Sponsors</h4>
-			<div class="sponsors">
-				{% for s in hsponsors %}
-				<div class="sponsor small host"><a href="{{s.link}}"><img src="{{ s.logo }}" alt=""></a></div>
-				{% endfor %}
-			</div>
-			{% endif %}
-			{% assign csponsors = site.sponsors | where: "type", "Corporate" | sort: "date" | reverse %}
-			{% if csponsors.size > 0 %}
-			<h4>Corporate Sponsor</h4>
-			<div class="sponsors">
-				{% for s in csponsors %}
-					<div class="sponsor small"><a href="{{s.link}}"><img src="{{ s.logo }}" alt=""></a></div>
-				{% endfor %}
-			</div>
-			{% endif %}
-			{% assign esponsors = site.sponsors | where: "type", "Executive" | sort: "title" %}
-			{% if esponsors.size > 0 %}
-			<h5>Executive Sponsors</h5>
-			<div class="sponsors">
-				{% for s in esponsors %}
-					<div class="sponsor"><a href="{{s.link}}"><img src="{{ s.logo }}" alt=""></a></div>
-				{% endfor %}
-			</div>
-			{% endif %}
-			{% endif %}
-		</div>
-	</section>
+	<div class="container">
+		<span class="icon section-icon icon-documents-bookmarks-12"></span>
+		<h3>Sponsors</h3>
+	</div>
+</section>
