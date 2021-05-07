@@ -87,6 +87,7 @@ h3 {
 
 .press-release {
   width: 70%;
+  padding-bottom: 65px;
 }
 
 .header.fixed .header-wrapper { position: static !important; }
