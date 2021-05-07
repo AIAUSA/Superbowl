@@ -19,6 +19,12 @@ page_sections:
 - template: speakers
   block: speakers
   header: true
+  bios:
+  - template: speaker
+    name: AKBAR GBAJABIAMILA
+    title: NFL, 2003 - 2008
+    credentials: Co-Host of American Ninja Warrior, Sports Analyst, NFL Network
+    image: "/uploads/speaker1.jpg"
   title: 2022 Super Bowl Breakfast Program
 - template: sponsors
   block: sponsors

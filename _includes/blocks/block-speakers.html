@@ -5,5 +5,21 @@
         <h3>{{ section.title }}</h3>
         <p class="text-alt">Check back for <span class="highlight">updates</span></p>
         {% endif %}
+        <br />
+        <br />
+        <div class="row text-center">
+            {% for speak in section.bios %}
+            <div class="col-sm-12">
+                <div class="speaker">
+                    <div class="photo-wrapper rounded"><img src="{{speak.image}}" alt="{{speak.name}}" class="img-responsive"></div>
+                    <h3 class="name">{{speak.name}}</h3>
+                    <p class="bold"><small>{{speak.title}}</small></p>
+                    <p class="about">{{ speak.credentials }} </p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        <br />
+        <br />
     </div>
 </section>
