@@ -1,6 +1,6 @@
 ---
 title: 'Saints'' Linebacker Demario Davis selected for Esteemed Character Award  '
-date: 2020-01-05 12:00:00 +0000
+date: 2020-01-05T12:00:00.000+00:00
 
 ---
 **The 2021 Bart Starr Award will be presented on February 6th during the NFL-sanctioned Super Bowl Breakfast Broadcast Special**
@@ -19,6 +19,6 @@ _“Davis’ life embodies Bart Starr’s incredible legacy of kindness, humilit
 
 Tony Dungy, Bart Starr Jr. and Cherry Starr will present the Bart Starr Award to Davis during the 34th annual Super Bowl Breakfast. Due to the ongoing global COVID-19 pandemic, this year’s breakfast will air as a special broadcast on Facebook Live, CTN and the Armed Forces Network. The event will be emceed by Akbar Gbajabiamila, co-host of American Ninja Warrior. Other program participants will include football greats, Anthony Munoz, Chad Hennings, Rocky Bleier, Benjamin Watson, Frank Reich and James Brown.
 
-To find more information about the Bart Starr Award or how to watch the Super Bowl Breakfast, visit
+To find more information about the Bart Starr Award or how to watch the Super Bowl Breakfast, visit:
 
 [SuperBowlBreakfast.com](https://superbowlbreakfast.com).
