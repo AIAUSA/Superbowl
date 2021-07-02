@@ -5852,6 +5852,11 @@ button[type="submit"] .loading {
 .sponsor.inline {
   vertical-align: middle;
 }
+
+#sponsors h5 {
+  margin-top: 20px;
+}
+
 @media (max-width: 1199px) {
   .sponsor:not(.inline):not(.big) {
     margin: 8px;
