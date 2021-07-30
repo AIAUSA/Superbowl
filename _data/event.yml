@@ -1,19 +1,21 @@
 ---
 media-contact: SBB@athletesinaction.org
 media-email: SBB@athletesinaction.org
-year: "2022"
-location: 'Los Angeles'
-full_date: Feburary 12th, 2022
+year: 2022
+location: In person event at the JW Marriott LA Live
+full_date: February 12th, 2022
 short_date: 12.Feb
 dayofweek: Saturday
-month: Feburary
-day: "12"
-address1: ''
-address2: ''
-sold_out: "0"
+month: February
+day: 12
+address1:
+address2:
+sold_out: 0
 sold_out_message: Please check back next year!
 time: 8 AM
 event_name: Super Bowl Breakfast
-address: ''
-city-state:
-hotel-link: ''
+address:
+city-state: Los Angeles, California
+hotel-link:
+event-additional-text-1: and a 30-minute program for
+event-additional-text-2: FB, YouTube and TV

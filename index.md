@@ -25,6 +25,11 @@ page_sections:
     title: NFL, 2003 - 2008
     credentials: Co-Host of American Ninja Warrior, Sports Analyst, NFL Network
     image: "/uploads/speaker1.jpg"
+  - template: speaker
+    name: ANTHONY MUNOZ
+    title: Cincinnati Bengals, 1980-1992
+    credentials: Pro Football Hall of Fame
+    image: "/uploads/speaker3.jpg"
   title: 2022 Super Bowl Breakfast Program
 - template: sponsors
   block: sponsors
