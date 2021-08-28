@@ -14,7 +14,7 @@ page_sections:
 - template: html-text
   block: text
   content: <div class="row align-center"><div class="col-md-6 col-md-offset-3"><div
-    class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/Em61LO9teOI"
+    class="videowrapper"><iframe width="100%" src="https://www.youtube.com/embed/SMOPu9md6a4"
     frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div></div></div>
 - template: speakers
   block: speakers
