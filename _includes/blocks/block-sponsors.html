@@ -6,12 +6,24 @@
 			{% assign ntsponsors = site.sponsors | where: "type", "National Title" | sort: "date" | reverse %}
 			{% if ntsponsors.size > 0 %}
 				<h3>National Title Sponsor</h3>
-				<div class="sponsors">
-					{% for s in ntsponsors %}
-					<div class="sponsor big"><a href="{{s.link}}"><img src="{{ s.logo }}" alt=""></a></div>
-					{% endfor %}
-				</div>
-			{% endif %}
+				{% for s in ntsponsors %}
+					<div class="row">
+						<div class="sponsors">
+							<div class="sponsor big"><a href="{{s.link}}"><img src="{{ s.logo }}" alt="{{ s.altl }}"></a></div>
+						</div>
+					</div>
+					<div class="row national-sponsor-content">
+						<div class="col-sm-8 text-left">
+							<p>{{s.desc}}</p>
+							<p class="text-center"><a href="{{ s.link }}" rel="nofollow" class="btn btn-md">Visit Website</a></p>
+						</div>
+						<div class="col-sm-4">
+							<img src="{{ s.img1 }}" alt="{{ s.alt1 }}"></a>
+						</div>
+					</div>
+				{% endfor %}
+
+		{% endif %}
 			{% assign psponsors = site.sponsors | where: "type", "Presenting" | sort: "date" | reverse %}
 			{% if psponsors.size > 0 %}
 				<h4>Presenting Sponsors</h4>
